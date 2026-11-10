@@ -1,0 +1,4539 @@
+{
+  "catalog" : {
+    "contentVersion" : 2,
+    "quotes" : [
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "行到水穷处，",
+          "坐看云起时。"
+        ],
+        "dynasty" : "唐",
+        "id" : "wangwei-zhongnanbieye-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《终南别业》摘句。校对参考：维基文库原文（修订 1982349）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%B5%82%E5%8D%97%E5%88%A5%E6%A5%AD&oldid=1982349",
+        "tags" : [
+
+        ],
+        "text" : "行到水穷处，坐看云起时。",
+        "verificationStatus" : "approved",
+        "work" : "终南别业"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "空山新雨后，",
+          "天气晚来秋。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3a02dda79745-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《山居秋暝》摘句。校对参考：维基文库原文（修订 2276100）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D&oldid=2276100",
+        "tags" : [
+
+        ],
+        "text" : "空山新雨后，天气晚来秋。",
+        "verificationStatus" : "approved",
+        "work" : "山居秋暝"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "明月松间照，",
+          "清泉石上流。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3a02dda79745-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《山居秋暝》摘句。校对参考：维基文库原文（修订 2276100）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D&oldid=2276100",
+        "tags" : [
+
+        ],
+        "text" : "明月松间照，清泉石上流。",
+        "verificationStatus" : "approved",
+        "work" : "山居秋暝"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "竹喧归浣女，",
+          "莲动下渔舟。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3a02dda79745-03",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《山居秋暝》摘句。校对参考：维基文库原文（修订 2276100）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D&oldid=2276100",
+        "tags" : [
+
+        ],
+        "text" : "竹喧归浣女，莲动下渔舟。",
+        "verificationStatus" : "approved",
+        "work" : "山居秋暝"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "独坐幽篁里，",
+          "弹琴复长啸。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-e7d2eaa4f943-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《竹里馆》摘句。校对参考：维基文库原文（修订 2328978）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%BC%9E%E5%B7%9D%E9%9B%86+%28%E7%8E%8B%E7%B6%AD%29%2F%E7%AB%B9%E9%87%8C%E9%A4%A8&oldid=2328978",
+        "tags" : [
+
+        ],
+        "text" : "独坐幽篁里，弹琴复长啸。",
+        "verificationStatus" : "approved",
+        "work" : "竹里馆"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "深林人不知，",
+          "明月来相照。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-e7d2eaa4f943-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《竹里馆》摘句。校对参考：维基文库原文（修订 2328978）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%BC%9E%E5%B7%9D%E9%9B%86+%28%E7%8E%8B%E7%B6%AD%29%2F%E7%AB%B9%E9%87%8C%E9%A4%A8&oldid=2328978",
+        "tags" : [
+
+        ],
+        "text" : "深林人不知，明月来相照。",
+        "verificationStatus" : "approved",
+        "work" : "竹里馆"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "空山不见人，",
+          "但闻人语响。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-cfff29fc49bc-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《鹿柴》摘句。校对参考：维基文库原文（修订 12232893）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%B9%BF%E6%9F%B4+%28%E7%8E%8B%E7%B6%AD%29&oldid=12232893",
+        "tags" : [
+
+        ],
+        "text" : "空山不见人，但闻人语响。",
+        "verificationStatus" : "approved",
+        "work" : "鹿柴"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "返景入深林，",
+          "复照青苔上。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-cfff29fc49bc-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《鹿柴》摘句。校对参考：维基文库原文（修订 12232893）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%B9%BF%E6%9F%B4+%28%E7%8E%8B%E7%B6%AD%29&oldid=12232893",
+        "tags" : [
+
+        ],
+        "text" : "返景入深林，复照青苔上。",
+        "verificationStatus" : "approved",
+        "work" : "鹿柴"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "人闲桂花落，",
+          "夜静春山空。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-e4a3fdfbf8cf-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《鸟鸣涧》摘句。校对参考：维基文库原文（修订 2328994）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%9A%87%E7%94%AB%E5%B6%BD%E9%9B%B2%E6%BA%AA%E9%9B%9C%E9%A1%8C%E4%BA%94%E9%A6%96%2F%E9%B3%A5%E9%B3%B4%E6%BE%97&oldid=2328994",
+        "tags" : [
+
+        ],
+        "text" : "人闲桂花落，夜静春山空。",
+        "verificationStatus" : "approved",
+        "work" : "鸟鸣涧"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "月出惊山鸟，",
+          "时鸣春涧中。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-e4a3fdfbf8cf-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《鸟鸣涧》摘句。校对参考：维基文库原文（修订 2328994）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%9A%87%E7%94%AB%E5%B6%BD%E9%9B%B2%E6%BA%AA%E9%9B%9C%E9%A1%8C%E4%BA%94%E9%A6%96%2F%E9%B3%A5%E9%B3%B4%E6%BE%97&oldid=2328994",
+        "tags" : [
+
+        ],
+        "text" : "月出惊山鸟，时鸣春涧中。",
+        "verificationStatus" : "approved",
+        "work" : "鸟鸣涧"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "红豆生南国，",
+          "春来发几枝。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-dc71346e8301-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《相思》摘句。校对参考：维基文库原文（修订 2450604）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%9B%B8%E6%80%9D&oldid=2450604",
+        "tags" : [
+
+        ],
+        "text" : "红豆生南国，春来发几枝。",
+        "verificationStatus" : "approved",
+        "work" : "相思"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "愿君多采撷，",
+          "此物最相思。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-dc71346e8301-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《相思》摘句。校对参考：维基文库原文（修订 2450604）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%9B%B8%E6%80%9D&oldid=2450604",
+        "tags" : [
+
+        ],
+        "text" : "愿君多采撷，此物最相思。",
+        "verificationStatus" : "approved",
+        "work" : "相思"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "渭城朝雨浥轻尘，",
+          "客舍青青柳色新。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-84d2291437e2-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《送元二使安西》摘句。校对参考：维基文库原文（修订 12232830）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%85%83%E4%BA%8C%E4%BD%BF%E5%AE%89%E8%A5%BF&oldid=12232830",
+        "tags" : [
+
+        ],
+        "text" : "渭城朝雨浥轻尘，客舍青青柳色新。",
+        "verificationStatus" : "approved",
+        "work" : "送元二使安西"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "劝君更尽一杯酒，",
+          "西出阳关无故人。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-84d2291437e2-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《送元二使安西》摘句。校对参考：维基文库原文（修订 12232830）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%85%83%E4%BA%8C%E4%BD%BF%E5%AE%89%E8%A5%BF&oldid=12232830",
+        "tags" : [
+
+        ],
+        "text" : "劝君更尽一杯酒，西出阳关无故人。",
+        "verificationStatus" : "approved",
+        "work" : "送元二使安西"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "大漠孤烟直，",
+          "长河落日圆。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-33c78d3959c6-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《使至塞上》摘句。校对参考：维基文库原文（修订 1982320）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E4%BD%BF%E8%87%B3%E5%A1%9E%E4%B8%8A&oldid=1982320",
+        "tags" : [
+
+        ],
+        "text" : "大漠孤烟直，长河落日圆。",
+        "verificationStatus" : "approved",
+        "work" : "使至塞上"
+      },
+      {
+        "author" : "孟浩然",
+        "displayLines" : [
+          "春眠不觉晓，",
+          "处处闻啼鸟。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-650da9c7d094-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《春晓》摘句。校对参考：维基文库原文（修订 11123475）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E6%9B%89+%28%E5%AD%9F%E6%B5%A9%E7%84%B6%29&oldid=11123475",
+        "tags" : [
+
+        ],
+        "text" : "春眠不觉晓，处处闻啼鸟。",
+        "verificationStatus" : "approved",
+        "work" : "春晓"
+      },
+      {
+        "author" : "孟浩然",
+        "displayLines" : [
+          "夜来风雨声，",
+          "花落知多少。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-650da9c7d094-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《春晓》摘句。校对参考：维基文库原文（修订 11123475）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E6%9B%89+%28%E5%AD%9F%E6%B5%A9%E7%84%B6%29&oldid=11123475",
+        "tags" : [
+
+        ],
+        "text" : "夜来风雨声，花落知多少。",
+        "verificationStatus" : "approved",
+        "work" : "春晓"
+      },
+      {
+        "author" : "孟浩然",
+        "displayLines" : [
+          "移舟泊烟渚，",
+          "日暮客愁新。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-24cf96665035-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《宿建德江》摘句。校对参考：维基文库原文（修订 1981947）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%AE%BF%E5%BB%BA%E5%BE%B7%E6%B1%9F&oldid=1981947",
+        "tags" : [
+
+        ],
+        "text" : "移舟泊烟渚，日暮客愁新。",
+        "verificationStatus" : "approved",
+        "work" : "宿建德江"
+      },
+      {
+        "author" : "孟浩然",
+        "displayLines" : [
+          "野旷天低树，",
+          "江清月近人。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-24cf96665035-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《宿建德江》摘句。校对参考：维基文库原文（修订 1981947）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%AE%BF%E5%BB%BA%E5%BE%B7%E6%B1%9F&oldid=1981947",
+        "tags" : [
+
+        ],
+        "text" : "野旷天低树，江清月近人。",
+        "verificationStatus" : "approved",
+        "work" : "宿建德江"
+      },
+      {
+        "author" : "孟浩然",
+        "displayLines" : [
+          "绿树村边合，",
+          "青山郭外斜。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-98fceba917f0-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《过故人庄》摘句。校对参考：维基文库原文（修订 2691920）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%81%8E%E6%95%85%E4%BA%BA%E8%8E%8A&oldid=2691920",
+        "tags" : [
+
+        ],
+        "text" : "绿树村边合，青山郭外斜。",
+        "verificationStatus" : "approved",
+        "work" : "过故人庄"
+      },
+      {
+        "author" : "孟浩然",
+        "displayLines" : [
+          "待到重阳日，",
+          "还来就菊花。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-98fceba917f0-03",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《过故人庄》摘句。校对参考：维基文库原文（修订 2691920）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%81%8E%E6%95%85%E4%BA%BA%E8%8E%8A&oldid=2691920",
+        "tags" : [
+
+        ],
+        "text" : "待到重阳日，还来就菊花。",
+        "verificationStatus" : "approved",
+        "work" : "过故人庄"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "好雨知时节，",
+          "当春乃发生。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-0b3f6272daf8-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《春夜喜雨》摘句。校对参考：维基文库原文（修订 2261431）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E5%A4%9C%E5%96%9C%E9%9B%A8&oldid=2261431",
+        "tags" : [
+
+        ],
+        "text" : "好雨知时节，当春乃发生。",
+        "verificationStatus" : "approved",
+        "work" : "春夜喜雨"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "随风潜入夜，",
+          "润物细无声。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-0b3f6272daf8-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《春夜喜雨》摘句。校对参考：维基文库原文（修订 2261431）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E5%A4%9C%E5%96%9C%E9%9B%A8&oldid=2261431",
+        "tags" : [
+
+        ],
+        "text" : "随风潜入夜，润物细无声。",
+        "verificationStatus" : "approved",
+        "work" : "春夜喜雨"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "晓看红湿处，",
+          "花重锦官城。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-0b3f6272daf8-04",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《春夜喜雨》摘句。校对参考：维基文库原文（修订 2261431）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E5%A4%9C%E5%96%9C%E9%9B%A8&oldid=2261431",
+        "tags" : [
+
+        ],
+        "text" : "晓看红湿处，花重锦官城。",
+        "verificationStatus" : "approved",
+        "work" : "春夜喜雨"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "会当凌绝顶，",
+          "一览众山小。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-377f69c8f7f9-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《望岳》摘句。校对参考：维基文库原文（修订 2369154）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E5%B6%BD+%28%E5%B2%B1%E5%AE%97%E5%A4%AB%E5%A6%82%E4%BD%95%29&oldid=2369154",
+        "tags" : [
+
+        ],
+        "text" : "会当凌绝顶，一览众山小。",
+        "verificationStatus" : "approved",
+        "work" : "望岳"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "迟日江山丽，",
+          "春风花草香。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3a71275a0db7-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《绝句二首·其一》摘句。校对参考：维基文库原文（修订 2643188）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%B5%95%E5%8F%A5%EF%BC%88%E9%81%B2%E6%97%A5%E6%B1%9F%E5%B1%B1%E9%BA%97%EF%BC%89&oldid=2643188",
+        "tags" : [
+
+        ],
+        "text" : "迟日江山丽，春风花草香。",
+        "verificationStatus" : "approved",
+        "work" : "绝句二首·其一"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "泥融飞燕子，",
+          "沙暖睡鸳鸯。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3a71275a0db7-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《绝句二首·其一》摘句。校对参考：维基文库原文（修订 2643188）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%B5%95%E5%8F%A5%EF%BC%88%E9%81%B2%E6%97%A5%E6%B1%9F%E5%B1%B1%E9%BA%97%EF%BC%89&oldid=2643188",
+        "tags" : [
+
+        ],
+        "text" : "泥融飞燕子，沙暖睡鸳鸯。",
+        "verificationStatus" : "approved",
+        "work" : "绝句二首·其一"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "星垂平野阔，",
+          "月涌大江流。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-0a2ce3f91528-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《旅夜书怀》摘句。校对参考：维基文库原文（修订 2488403）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%97%85%E5%A4%9C%E6%9B%B8%E6%87%B7&oldid=2488403",
+        "tags" : [
+
+        ],
+        "text" : "星垂平野阔，月涌大江流。",
+        "verificationStatus" : "approved",
+        "work" : "旅夜书怀"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "朝辞白帝彩云间，",
+          "千里江陵一日还。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-20dc9abf86ac-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《早发白帝城》摘句。校对参考：维基文库原文（修订 12232697）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%97%A9%E7%99%BC%E7%99%BD%E5%B8%9D%E5%9F%8E&oldid=12232697",
+        "tags" : [
+
+        ],
+        "text" : "朝辞白帝彩云间，千里江陵一日还。",
+        "verificationStatus" : "approved",
+        "work" : "早发白帝城"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "日照香炉生紫烟，",
+          "遥看瀑布挂前川。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3d1033064f86-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《望庐山瀑布·其二》摘句。校对参考：维基文库原文（修订 2648625）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E5%BB%AC%E5%B1%B1%E7%80%91%E5%B8%83&oldid=2648625",
+        "tags" : [
+
+        ],
+        "text" : "日照香炉生紫烟，遥看瀑布挂前川。",
+        "verificationStatus" : "approved",
+        "work" : "望庐山瀑布·其二"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "飞流直下三千尺，",
+          "疑是银河落九天。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3d1033064f86-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《望庐山瀑布·其二》摘句。校对参考：维基文库原文（修订 2648625）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E5%BB%AC%E5%B1%B1%E7%80%91%E5%B8%83&oldid=2648625",
+        "tags" : [
+
+        ],
+        "text" : "飞流直下三千尺，疑是银河落九天。",
+        "verificationStatus" : "approved",
+        "work" : "望庐山瀑布·其二"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "众鸟高飞尽，",
+          "孤云独去闲。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-4ad16301ad24-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《独坐敬亭山》摘句。校对参考：维基文库原文（修订 482794）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%8D%A8%E5%9D%90%E6%95%AC%E4%BA%AD%E5%B1%B1&oldid=482794",
+        "tags" : [
+
+        ],
+        "text" : "众鸟高飞尽，孤云独去闲。",
+        "verificationStatus" : "approved",
+        "work" : "独坐敬亭山"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "相看两不厌，",
+          "只有敬亭山。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-4ad16301ad24-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《独坐敬亭山》摘句。校对参考：维基文库原文（修订 482794）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%8D%A8%E5%9D%90%E6%95%AC%E4%BA%AD%E5%B1%B1&oldid=482794",
+        "tags" : [
+
+        ],
+        "text" : "相看两不厌，只有敬亭山。",
+        "verificationStatus" : "approved",
+        "work" : "独坐敬亭山"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "床前明月光，",
+          "疑是地上霜。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-66c1a0dd7a4a-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《静夜思》摘句。校对参考：维基文库原文（修订 12232857）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%9D%9C%E5%A4%9C%E6%80%9D&oldid=12232857",
+        "tags" : [
+
+        ],
+        "text" : "床前明月光，疑是地上霜。",
+        "verificationStatus" : "approved",
+        "work" : "静夜思"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "举头望明月，",
+          "低头思故乡。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-66c1a0dd7a4a-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《静夜思》摘句。校对参考：维基文库原文（修订 12232857）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%9D%9C%E5%A4%9C%E6%80%9D&oldid=12232857",
+        "tags" : [
+
+        ],
+        "text" : "举头望明月，低头思故乡。",
+        "verificationStatus" : "approved",
+        "work" : "静夜思"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "山随平野尽，",
+          "江入大荒流。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3456a22ae2c3-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《渡荆门送别》摘句。校对参考：维基文库原文（修订 1407789）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B8%A1%E8%8D%8A%E9%96%80%E9%80%81%E5%88%A5&oldid=1407789",
+        "tags" : [
+
+        ],
+        "text" : "山随平野尽，江入大荒流。",
+        "verificationStatus" : "approved",
+        "work" : "渡荆门送别"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "月下飞天镜，",
+          "云生结海楼。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3456a22ae2c3-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《渡荆门送别》摘句。校对参考：维基文库原文（修订 1407789）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B8%A1%E8%8D%8A%E9%96%80%E9%80%81%E5%88%A5&oldid=1407789",
+        "tags" : [
+
+        ],
+        "text" : "月下飞天镜，云生结海楼。",
+        "verificationStatus" : "approved",
+        "work" : "渡荆门送别"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "仍怜故乡水，",
+          "万里送行舟。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3456a22ae2c3-03",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《渡荆门送别》摘句。校对参考：维基文库原文（修订 1407789）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B8%A1%E8%8D%8A%E9%96%80%E9%80%81%E5%88%A5&oldid=1407789",
+        "tags" : [
+
+        ],
+        "text" : "仍怜故乡水，万里送行舟。",
+        "verificationStatus" : "approved",
+        "work" : "渡荆门送别"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "峨眉山月半轮秋，",
+          "影入平羌江水流。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-5d2b7df93a0d-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《峨眉山月歌》摘句。校对参考：维基文库原文（修订 482607）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%9C%88%E6%AD%8C&oldid=482607",
+        "tags" : [
+
+        ],
+        "text" : "峨眉山月半轮秋，影入平羌江水流。",
+        "verificationStatus" : "approved",
+        "work" : "峨眉山月歌"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "青山横北郭，",
+          "白水绕东城。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-53c617dd4cd8-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《送友人》摘句。校对参考：维基文库原文（修订 2266670）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%8F%8B%E4%BA%BA+%28%E6%9D%8E%E7%99%BD%29&oldid=2266670",
+        "tags" : [
+
+        ],
+        "text" : "青山横北郭，白水绕东城。",
+        "verificationStatus" : "approved",
+        "work" : "送友人"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "浮云游子意，",
+          "落日故人情。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-53c617dd4cd8-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《送友人》摘句。校对参考：维基文库原文（修订 2266670）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%8F%8B%E4%BA%BA+%28%E6%9D%8E%E7%99%BD%29&oldid=2266670",
+        "tags" : [
+
+        ],
+        "text" : "浮云游子意，落日故人情。",
+        "verificationStatus" : "approved",
+        "work" : "送友人"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "故人西辞黄鹤楼，",
+          "烟花三月下扬州。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-a90d372b0ad3-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《黄鹤楼送孟浩然之广陵》摘句。校对参考：维基文库原文（修订 12232908）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E9%B6%B4%E6%A8%93%E9%80%81%E5%AD%9F%E6%B5%A9%E7%84%B6%E4%B9%8B%E5%BB%A3%E9%99%B5&oldid=12232908",
+        "tags" : [
+
+        ],
+        "text" : "故人西辞黄鹤楼，烟花三月下扬州。",
+        "verificationStatus" : "approved",
+        "work" : "黄鹤楼送孟浩然之广陵"
+      },
+      {
+        "author" : "白居易",
+        "displayLines" : [
+          "几处早莺争暖树，",
+          "谁家新燕啄春泥。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-76bda3a09a9e-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《钱塘湖春行》摘句。校对参考：维基文库原文（修订 2458204）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%8C%A2%E5%A1%98%E6%B9%96%E6%98%A5%E8%A1%8C&oldid=2458204",
+        "tags" : [
+
+        ],
+        "text" : "几处早莺争暖树，谁家新燕啄春泥。",
+        "verificationStatus" : "approved",
+        "work" : "钱塘湖春行"
+      },
+      {
+        "author" : "白居易",
+        "displayLines" : [
+          "乱花渐欲迷人眼，",
+          "浅草才能没马蹄。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-76bda3a09a9e-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《钱塘湖春行》摘句。校对参考：维基文库原文（修订 2458204）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%8C%A2%E5%A1%98%E6%B9%96%E6%98%A5%E8%A1%8C&oldid=2458204",
+        "tags" : [
+
+        ],
+        "text" : "乱花渐欲迷人眼，浅草才能没马蹄。",
+        "verificationStatus" : "approved",
+        "work" : "钱塘湖春行"
+      },
+      {
+        "author" : "白居易",
+        "displayLines" : [
+          "最爱湖东行不足，",
+          "绿杨阴里白沙堤。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-76bda3a09a9e-03",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《钱塘湖春行》摘句。校对参考：维基文库原文（修订 2458204）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%8C%A2%E5%A1%98%E6%B9%96%E6%98%A5%E8%A1%8C&oldid=2458204",
+        "tags" : [
+
+        ],
+        "text" : "最爱湖东行不足，绿杨阴里白沙堤。",
+        "verificationStatus" : "approved",
+        "work" : "钱塘湖春行"
+      },
+      {
+        "author" : "白居易",
+        "displayLines" : [
+          "离离原上草，",
+          "一岁一枯荣。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-a73b36eb2793-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《赋得古原草送别》摘句。校对参考：维基文库原文（修订 1981926）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%B3%A6%E5%BE%97%E5%8F%A4%E5%8E%9F%E8%8D%89%E9%80%81%E5%88%A5&oldid=1981926",
+        "tags" : [
+
+        ],
+        "text" : "离离原上草，一岁一枯荣。",
+        "verificationStatus" : "approved",
+        "work" : "赋得古原草送别"
+      },
+      {
+        "author" : "白居易",
+        "displayLines" : [
+          "野火烧不尽，",
+          "春风吹又生。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-a73b36eb2793-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《赋得古原草送别》摘句。校对参考：维基文库原文（修订 1981926）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%B3%A6%E5%BE%97%E5%8F%A4%E5%8E%9F%E8%8D%89%E9%80%81%E5%88%A5&oldid=1981926",
+        "tags" : [
+
+        ],
+        "text" : "野火烧不尽，春风吹又生。",
+        "verificationStatus" : "approved",
+        "work" : "赋得古原草送别"
+      },
+      {
+        "author" : "白居易",
+        "displayLines" : [
+          "远芳侵古道，",
+          "晴翠接荒城。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-a73b36eb2793-03",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《赋得古原草送别》摘句。校对参考：维基文库原文（修订 1981926）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%B3%A6%E5%BE%97%E5%8F%A4%E5%8E%9F%E8%8D%89%E9%80%81%E5%88%A5&oldid=1981926",
+        "tags" : [
+
+        ],
+        "text" : "远芳侵古道，晴翠接荒城。",
+        "verificationStatus" : "approved",
+        "work" : "赋得古原草送别"
+      },
+      {
+        "author" : "白居易",
+        "displayLines" : [
+          "绿蚁新醅酒，",
+          "红泥小火炉。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-4f77b5495bd4-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《问刘十九》摘句。校对参考：维基文库原文（修订 1982858）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%95%8F%E5%8A%89%E5%8D%81%E4%B9%9D&oldid=1982858",
+        "tags" : [
+
+        ],
+        "text" : "绿蚁新醅酒，红泥小火炉。",
+        "verificationStatus" : "approved",
+        "work" : "问刘十九"
+      },
+      {
+        "author" : "白居易",
+        "displayLines" : [
+          "晚来天欲雪，",
+          "能饮一杯无？"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-4f77b5495bd4-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《问刘十九》摘句。校对参考：维基文库原文（修订 1982858）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%95%8F%E5%8A%89%E5%8D%81%E4%B9%9D&oldid=1982858",
+        "tags" : [
+
+        ],
+        "text" : "晚来天欲雪，能饮一杯无？",
+        "verificationStatus" : "approved",
+        "work" : "问刘十九"
+      },
+      {
+        "author" : "刘禹锡",
+        "displayLines" : [
+          "自古逢秋悲寂寥，",
+          "我言秋日胜春朝。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-aeda61e8aca9-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《秋词·其一》摘句。校对参考：维基文库原文（修订 825813）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%A7%8B%E8%A9%9E%E4%BA%8C%E9%A6%96&oldid=825813",
+        "tags" : [
+
+        ],
+        "text" : "自古逢秋悲寂寥，我言秋日胜春朝。",
+        "verificationStatus" : "approved",
+        "work" : "秋词·其一"
+      },
+      {
+        "author" : "刘禹锡",
+        "displayLines" : [
+          "晴空一鹤排云上，",
+          "便引诗情到碧霄。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-aeda61e8aca9-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《秋词·其一》摘句。校对参考：维基文库原文（修订 825813）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%A7%8B%E8%A9%9E%E4%BA%8C%E9%A6%96&oldid=825813",
+        "tags" : [
+
+        ],
+        "text" : "晴空一鹤排云上，便引诗情到碧霄。",
+        "verificationStatus" : "approved",
+        "work" : "秋词·其一"
+      },
+      {
+        "author" : "刘禹锡",
+        "displayLines" : [
+          "湖光秋月两相和，",
+          "潭面无风镜未磨。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-341bfe89bd04-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《望洞庭》摘句。校对参考：维基文库原文（修订 825927）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E6%B4%9E%E5%BA%AD&oldid=825927",
+        "tags" : [
+
+        ],
+        "text" : "湖光秋月两相和，潭面无风镜未磨。",
+        "verificationStatus" : "approved",
+        "work" : "望洞庭"
+      },
+      {
+        "author" : "刘禹锡",
+        "displayLines" : [
+          "遥望洞庭山水翠，",
+          "白银盘里一青螺。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-341bfe89bd04-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《望洞庭》摘句。校对参考：维基文库原文（修订 825927）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E6%B4%9E%E5%BA%AD&oldid=825927",
+        "tags" : [
+
+        ],
+        "text" : "遥望洞庭山水翠，白银盘里一青螺。",
+        "verificationStatus" : "approved",
+        "work" : "望洞庭"
+      },
+      {
+        "author" : "刘禹锡",
+        "displayLines" : [
+          "沉舟侧畔千帆过，",
+          "病树前头万木春。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-8e9f4a64b42a-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《酬乐天扬州初逢席上见赠》摘句。校对参考：维基文库原文（修订 1796694）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%85%AC%E6%A8%82%E5%A4%A9%E6%8F%9A%E5%B7%9E%E5%88%9D%E9%80%A2%E5%B8%AD%E4%B8%8A%E8%A6%8B%E8%B4%88&oldid=1796694",
+        "tags" : [
+
+        ],
+        "text" : "沉舟侧畔千帆过，病树前头万木春。",
+        "verificationStatus" : "approved",
+        "work" : "酬乐天扬州初逢席上见赠"
+      },
+      {
+        "author" : "柳宗元",
+        "displayLines" : [
+          "千山鸟飞绝，",
+          "万径人踪灭。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-6eef4aabddda-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《江雪》摘句。校对参考：维基文库原文（修订 2315191）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E9%9B%AA&oldid=2315191",
+        "tags" : [
+
+        ],
+        "text" : "千山鸟飞绝，万径人踪灭。",
+        "verificationStatus" : "approved",
+        "work" : "江雪"
+      },
+      {
+        "author" : "柳宗元",
+        "displayLines" : [
+          "孤舟蓑笠翁，",
+          "独钓寒江雪。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-6eef4aabddda-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《江雪》摘句。校对参考：维基文库原文（修订 2315191）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E9%9B%AA&oldid=2315191",
+        "tags" : [
+
+        ],
+        "text" : "孤舟蓑笠翁，独钓寒江雪。",
+        "verificationStatus" : "approved",
+        "work" : "江雪"
+      },
+      {
+        "author" : "王之涣",
+        "displayLines" : [
+          "白日依山尽，",
+          "黄河入海流。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-0a186ae1094a-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《登鹳雀楼》摘句。校对参考：维基文库原文（修订 12232761）。采用简体字与现代标点，规范异体字。通行署名王之涣，来源另载朱斌署名。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%99%BB%E9%B8%9B%E9%9B%80%E6%A8%93+%28%E7%8E%8B%E4%B9%8B%E6%B8%99%29&oldid=12232761",
+        "tags" : [
+
+        ],
+        "text" : "白日依山尽，黄河入海流。",
+        "verificationStatus" : "approved",
+        "work" : "登鹳雀楼"
+      },
+      {
+        "author" : "王之涣",
+        "displayLines" : [
+          "欲穷千里目，",
+          "更上一层楼。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-0a186ae1094a-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《登鹳雀楼》摘句。校对参考：维基文库原文（修订 12232761）。采用简体字与现代标点，规范异体字。通行署名王之涣，来源另载朱斌署名。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%99%BB%E9%B8%9B%E9%9B%80%E6%A8%93+%28%E7%8E%8B%E4%B9%8B%E6%B8%99%29&oldid=12232761",
+        "tags" : [
+
+        ],
+        "text" : "欲穷千里目，更上一层楼。",
+        "verificationStatus" : "approved",
+        "work" : "登鹳雀楼"
+      },
+      {
+        "author" : "王昌龄",
+        "displayLines" : [
+          "寒雨连江夜入吴，",
+          "平明送客楚山孤。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-b9c8b989bffa-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《芙蓉楼送辛渐·其一》摘句。校对参考：维基文库原文（修订 12232776）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%8A%99%E8%93%89%E6%A8%93%E9%80%81%E8%BE%9B%E6%BC%B8+%28%E5%AF%92%E9%9B%A8%E9%80%A3%E6%B1%9F%E5%A4%9C%E5%85%A5%E5%90%B3%29&oldid=12232776",
+        "tags" : [
+
+        ],
+        "text" : "寒雨连江夜入吴，平明送客楚山孤。",
+        "verificationStatus" : "approved",
+        "work" : "芙蓉楼送辛渐·其一"
+      },
+      {
+        "author" : "王昌龄",
+        "displayLines" : [
+          "洛阳亲友如相问，",
+          "一片冰心在玉壶。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-b9c8b989bffa-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《芙蓉楼送辛渐·其一》摘句。校对参考：维基文库原文（修订 12232776）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%8A%99%E8%93%89%E6%A8%93%E9%80%81%E8%BE%9B%E6%BC%B8+%28%E5%AF%92%E9%9B%A8%E9%80%A3%E6%B1%9F%E5%A4%9C%E5%85%A5%E5%90%B3%29&oldid=12232776",
+        "tags" : [
+
+        ],
+        "text" : "洛阳亲友如相问，一片冰心在玉壶。",
+        "verificationStatus" : "approved",
+        "work" : "芙蓉楼送辛渐·其一"
+      },
+      {
+        "author" : "王勃",
+        "displayLines" : [
+          "海内存知己，",
+          "天涯若比邻。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-03c5768e945b-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《送杜少府之任蜀州》摘句。校对参考：维基文库原文（修订 2439758）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9D%9C%E5%B0%91%E5%BA%9C%E4%B9%8B%E4%BB%BB%E8%9C%80%E5%B7%9E&oldid=2439758",
+        "tags" : [
+
+        ],
+        "text" : "海内存知己，天涯若比邻。",
+        "verificationStatus" : "approved",
+        "work" : "送杜少府之任蜀州"
+      },
+      {
+        "author" : "高适",
+        "displayLines" : [
+          "莫愁前路无知己，",
+          "天下谁人不识君。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-6359e15bf868-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《别董大·其一》摘句。校对参考：维基文库原文（修订 2674006）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%88%A5%E8%91%A3%E5%A4%A7&oldid=2674006",
+        "tags" : [
+
+        ],
+        "text" : "莫愁前路无知己，天下谁人不识君。",
+        "verificationStatus" : "approved",
+        "work" : "别董大·其一"
+      },
+      {
+        "author" : "杜牧",
+        "displayLines" : [
+          "停车坐爱枫林晚，",
+          "霜叶红于二月花。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-4572171c9abf-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《山行》摘句。校对参考：维基文库原文（修订 1568824）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B1%B1%E8%A1%8C+%28%E6%9D%9C%E7%89%A7%29&oldid=1568824",
+        "tags" : [
+
+        ],
+        "text" : "停车坐爱枫林晚，霜叶红于二月花。",
+        "verificationStatus" : "approved",
+        "work" : "山行"
+      },
+      {
+        "author" : "杜牧",
+        "displayLines" : [
+          "千里莺啼绿映红，",
+          "水村山郭酒旗风。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-c43d85bc4aa3-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《江南春》摘句。校对参考：维基文库原文（修订 2391458）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E5%8D%97%E6%98%A5&oldid=2391458",
+        "tags" : [
+
+        ],
+        "text" : "千里莺啼绿映红，水村山郭酒旗风。",
+        "verificationStatus" : "approved",
+        "work" : "江南春"
+      },
+      {
+        "author" : "杜牧",
+        "displayLines" : [
+          "南朝四百八十寺，",
+          "多少楼台烟雨中。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-c43d85bc4aa3-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《江南春》摘句。校对参考：维基文库原文（修订 2391458）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E5%8D%97%E6%98%A5&oldid=2391458",
+        "tags" : [
+
+        ],
+        "text" : "南朝四百八十寺，多少楼台烟雨中。",
+        "verificationStatus" : "approved",
+        "work" : "江南春"
+      },
+      {
+        "author" : "杜牧",
+        "displayLines" : [
+          "银烛秋光冷画屏，",
+          "轻罗小扇扑流萤。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-6d8cadecd07c-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《秋夕》摘句。校对参考：维基文库原文（修订 2629627）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%A7%8B%E5%A4%95+%28%E6%9D%9C%E7%89%A7%29&oldid=2629627",
+        "tags" : [
+
+        ],
+        "text" : "银烛秋光冷画屏，轻罗小扇扑流萤。",
+        "verificationStatus" : "approved",
+        "work" : "秋夕"
+      },
+      {
+        "author" : "杜牧",
+        "displayLines" : [
+          "天阶夜色凉如水，",
+          "卧看牵牛织女星。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-6d8cadecd07c-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《秋夕》摘句。校对参考：维基文库原文（修订 2629627）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%A7%8B%E5%A4%95+%28%E6%9D%9C%E7%89%A7%29&oldid=2629627",
+        "tags" : [
+
+        ],
+        "text" : "天阶夜色凉如水，卧看牵牛织女星。",
+        "verificationStatus" : "approved",
+        "work" : "秋夕"
+      },
+      {
+        "author" : "李商隐",
+        "displayLines" : [
+          "君问归期未有期，",
+          "巴山夜雨涨秋池。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-ab9a4c50de0f-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《夜雨寄北》摘句。校对参考：维基文库原文（修订 1566402）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%A4%9C%E9%9B%A8%E5%AF%84%E5%8C%97&oldid=1566402",
+        "tags" : [
+
+        ],
+        "text" : "君问归期未有期，巴山夜雨涨秋池。",
+        "verificationStatus" : "approved",
+        "work" : "夜雨寄北"
+      },
+      {
+        "author" : "李商隐",
+        "displayLines" : [
+          "何当共剪西窗烛，",
+          "却话巴山夜雨时。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-ab9a4c50de0f-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《夜雨寄北》摘句。校对参考：维基文库原文（修订 1566402）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%A4%9C%E9%9B%A8%E5%AF%84%E5%8C%97&oldid=1566402",
+        "tags" : [
+
+        ],
+        "text" : "何当共剪西窗烛，却话巴山夜雨时。",
+        "verificationStatus" : "approved",
+        "work" : "夜雨寄北"
+      },
+      {
+        "author" : "李商隐",
+        "displayLines" : [
+          "夕阳无限好，",
+          "只是近黄昏。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-34dfb89ba9bb-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《登乐游原》摘句。校对参考：维基文库原文（修订 1989724）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%A8%82%E9%81%8A%E5%8E%9F+%28%E6%9D%8E%E5%95%86%E9%9A%B1%29&oldid=1989724",
+        "tags" : [
+
+        ],
+        "text" : "夕阳无限好，只是近黄昏。",
+        "verificationStatus" : "approved",
+        "work" : "登乐游原"
+      },
+      {
+        "author" : "苏轼",
+        "displayLines" : [
+          "横看成岭侧成峰，",
+          "远近高低各不同。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-0d7399578bfb-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《题西林壁》摘句。校对参考：维基文库原文（修订 8732088）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%A1%8C%E8%A5%BF%E6%9E%97%E5%A3%81+%28%E8%98%87%E8%BB%BE%29&oldid=8732088",
+        "tags" : [
+
+        ],
+        "text" : "横看成岭侧成峰，远近高低各不同。",
+        "verificationStatus" : "approved",
+        "work" : "题西林壁"
+      },
+      {
+        "author" : "苏轼",
+        "displayLines" : [
+          "欲把西湖比西子，",
+          "淡妆浓抹总相宜。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-666e557e23f5-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《饮湖上初晴后雨·其二》摘句。校对参考：维基文库原文（修订 8732096）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%A3%B2%E6%B9%96%E4%B8%8A%E5%88%9D%E6%99%B4%E5%BE%8C%E9%9B%A8%E5%85%B6%E4%BA%8C&oldid=8732096",
+        "tags" : [
+
+        ],
+        "text" : "欲把西湖比西子，淡妆浓抹总相宜。",
+        "verificationStatus" : "approved",
+        "work" : "饮湖上初晴后雨·其二"
+      },
+      {
+        "author" : "苏轼",
+        "displayLines" : [
+          "人间有味是清欢。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-9ae7dbe94f4c-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《浣溪沙·细雨斜风作晓寒》摘句。校对参考：维基文库原文（修订 1484055）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B5%A3%E6%BA%AA%E6%B2%99%EF%BC%88%E5%85%83%E8%B1%90%E4%B8%83%E5%B9%B4%E5%8D%81%E6%9C%88%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%97%A5%EF%BC%8C%E5%BE%9E%E6%B3%97%E5%B7%9E%E5%8A%89%E5%80%A9%E5%8F%94%E9%81%8A%E5%8D%97%E5%B1%B1%EF%BC%89&oldid=1484055",
+        "tags" : [
+
+        ],
+        "text" : "人间有味是清欢。",
+        "verificationStatus" : "approved",
+        "work" : "浣溪沙·细雨斜风作晓寒"
+      },
+      {
+        "author" : "苏轼",
+        "displayLines" : [
+          "竹外桃花三两枝，",
+          "春江水暖鸭先知。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-6fd476d7c48c-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《惠崇春江晚景·其一》摘句。校对参考：维基文库原文（修订 1439351）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%83%A0%E5%B4%87%E6%98%A5%E6%B1%9F%E6%99%9A%E6%99%AF&oldid=1439351",
+        "tags" : [
+
+        ],
+        "text" : "竹外桃花三两枝，春江水暖鸭先知。",
+        "verificationStatus" : "approved",
+        "work" : "惠崇春江晚景·其一"
+      },
+      {
+        "author" : "苏轼",
+        "displayLines" : [
+          "蒌蒿满地芦芽短，",
+          "正是河豚欲上时。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-6fd476d7c48c-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《惠崇春江晚景·其一》摘句。校对参考：维基文库原文（修订 1439351）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%83%A0%E5%B4%87%E6%98%A5%E6%B1%9F%E6%99%9A%E6%99%AF&oldid=1439351",
+        "tags" : [
+
+        ],
+        "text" : "蒌蒿满地芦芽短，正是河豚欲上时。",
+        "verificationStatus" : "approved",
+        "work" : "惠崇春江晚景·其一"
+      },
+      {
+        "author" : "陆游",
+        "displayLines" : [
+          "莫笑农家腊酒浑，",
+          "丰年留客足鸡豚。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-e95d53e0bc8b-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《游山西村》摘句。校对参考：维基文库原文（修订 902696）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%81%8A%E5%B1%B1%E8%A5%BF%E6%9D%91&oldid=902696",
+        "tags" : [
+
+        ],
+        "text" : "莫笑农家腊酒浑，丰年留客足鸡豚。",
+        "verificationStatus" : "approved",
+        "work" : "游山西村"
+      },
+      {
+        "author" : "陆游",
+        "displayLines" : [
+          "山重水复疑无路，",
+          "柳暗花明又一村。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-e95d53e0bc8b-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《游山西村》摘句。校对参考：维基文库原文（修订 902696）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%81%8A%E5%B1%B1%E8%A5%BF%E6%9D%91&oldid=902696",
+        "tags" : [
+
+        ],
+        "text" : "山重水复疑无路，柳暗花明又一村。",
+        "verificationStatus" : "approved",
+        "work" : "游山西村"
+      },
+      {
+        "author" : "陆游",
+        "displayLines" : [
+          "箫鼓追随春社近，",
+          "衣冠简朴古风存。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-e95d53e0bc8b-03",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《游山西村》摘句。校对参考：维基文库原文（修订 902696）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%81%8A%E5%B1%B1%E8%A5%BF%E6%9D%91&oldid=902696",
+        "tags" : [
+
+        ],
+        "text" : "箫鼓追随春社近，衣冠简朴古风存。",
+        "verificationStatus" : "approved",
+        "work" : "游山西村"
+      },
+      {
+        "author" : "陆游",
+        "displayLines" : [
+          "古人学问无遗力，",
+          "少壮工夫老始成。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-642592c10661-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《冬夜读书示子聿》摘句。校对参考：维基文库原文（修订 1655805）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%86%AC%E5%A4%9C%E8%AE%80%E6%9B%B8%E7%A4%BA%E5%AD%90%E8%81%BF&oldid=1655805",
+        "tags" : [
+
+        ],
+        "text" : "古人学问无遗力，少壮工夫老始成。",
+        "verificationStatus" : "approved",
+        "work" : "冬夜读书示子聿"
+      },
+      {
+        "author" : "陆游",
+        "displayLines" : [
+          "纸上得来终觉浅，",
+          "绝知此事要躬行。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-642592c10661-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《冬夜读书示子聿》摘句。校对参考：维基文库原文（修订 1655805）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%86%AC%E5%A4%9C%E8%AE%80%E6%9B%B8%E7%A4%BA%E5%AD%90%E8%81%BF&oldid=1655805",
+        "tags" : [
+
+        ],
+        "text" : "纸上得来终觉浅，绝知此事要躬行。",
+        "verificationStatus" : "approved",
+        "work" : "冬夜读书示子聿"
+      },
+      {
+        "author" : "陆游",
+        "displayLines" : [
+          "小楼一夜听春雨，",
+          "深巷明朝卖杏花。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-f039c101ea14-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《临安春雨初霁》摘句。校对参考：维基文库原文（修订 2261432）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%87%A8%E5%AE%89%E6%98%A5%E9%9B%A8%E5%88%9D%E9%9C%BD&oldid=2261432",
+        "tags" : [
+
+        ],
+        "text" : "小楼一夜听春雨，深巷明朝卖杏花。",
+        "verificationStatus" : "approved",
+        "work" : "临安春雨初霁"
+      },
+      {
+        "author" : "陆游",
+        "displayLines" : [
+          "矮纸斜行闲作草，",
+          "晴窗细乳戏分茶。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-f039c101ea14-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《临安春雨初霁》摘句。校对参考：维基文库原文（修订 2261432）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%87%A8%E5%AE%89%E6%98%A5%E9%9B%A8%E5%88%9D%E9%9C%BD&oldid=2261432",
+        "tags" : [
+
+        ],
+        "text" : "矮纸斜行闲作草，晴窗细乳戏分茶。",
+        "verificationStatus" : "approved",
+        "work" : "临安春雨初霁"
+      },
+      {
+        "author" : "杨万里",
+        "displayLines" : [
+          "泉眼无声惜细流，",
+          "树阴照水爱晴柔。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-936dbbfa6c06-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《小池》摘句。校对参考：维基文库原文（修订 1649744）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B0%8F%E6%B1%A0&oldid=1649744",
+        "tags" : [
+
+        ],
+        "text" : "泉眼无声惜细流，树阴照水爱晴柔。",
+        "verificationStatus" : "approved",
+        "work" : "小池"
+      },
+      {
+        "author" : "杨万里",
+        "displayLines" : [
+          "小荷才露尖尖角，",
+          "早有蜻蜓立上头。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-936dbbfa6c06-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《小池》摘句。校对参考：维基文库原文（修订 1649744）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B0%8F%E6%B1%A0&oldid=1649744",
+        "tags" : [
+
+        ],
+        "text" : "小荷才露尖尖角，早有蜻蜓立上头。",
+        "verificationStatus" : "approved",
+        "work" : "小池"
+      },
+      {
+        "author" : "杨万里",
+        "displayLines" : [
+          "毕竟西湖六月中，",
+          "风光不与四时同。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-966d2600bcf5-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《晓出净慈寺送林子方·其二》摘句。校对参考：维基文库原文（修订 2391475）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9B%89%E5%87%BA%E6%B7%A8%E6%85%88%E5%AF%BA%E9%80%81%E6%9E%97%E5%AD%90%E6%96%B9&oldid=2391475",
+        "tags" : [
+
+        ],
+        "text" : "毕竟西湖六月中，风光不与四时同。",
+        "verificationStatus" : "approved",
+        "work" : "晓出净慈寺送林子方·其二"
+      },
+      {
+        "author" : "杨万里",
+        "displayLines" : [
+          "接天莲叶无穷碧，",
+          "映日荷花别样红。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-966d2600bcf5-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《晓出净慈寺送林子方·其二》摘句。校对参考：维基文库原文（修订 2391475）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9B%89%E5%87%BA%E6%B7%A8%E6%85%88%E5%AF%BA%E9%80%81%E6%9E%97%E5%AD%90%E6%96%B9&oldid=2391475",
+        "tags" : [
+
+        ],
+        "text" : "接天莲叶无穷碧，映日荷花别样红。",
+        "verificationStatus" : "approved",
+        "work" : "晓出净慈寺送林子方·其二"
+      },
+      {
+        "author" : "朱熹",
+        "displayLines" : [
+          "胜日寻芳泗水滨，",
+          "无边光景一时新。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-13cf8e76c277-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《春日》摘句。校对参考：维基文库原文（修订 1794527）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E6%97%A5+%28%E6%9C%B1%E7%86%B9%29&oldid=1794527",
+        "tags" : [
+
+        ],
+        "text" : "胜日寻芳泗水滨，无边光景一时新。",
+        "verificationStatus" : "approved",
+        "work" : "春日"
+      },
+      {
+        "author" : "朱熹",
+        "displayLines" : [
+          "等闲识得东风面，",
+          "万紫千红总是春。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-13cf8e76c277-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《春日》摘句。校对参考：维基文库原文（修订 1794527）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E6%97%A5+%28%E6%9C%B1%E7%86%B9%29&oldid=1794527",
+        "tags" : [
+
+        ],
+        "text" : "等闲识得东风面，万紫千红总是春。",
+        "verificationStatus" : "approved",
+        "work" : "春日"
+      },
+      {
+        "author" : "朱熹",
+        "displayLines" : [
+          "半亩方塘一鉴开，",
+          "天光云影共徘徊。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-012b87f1a35d-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《观书有感·其一》摘句。校对参考：维基文库原文（修订 1995632）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%A7%80%E6%9B%B8%E6%9C%89%E6%84%9F&oldid=1995632",
+        "tags" : [
+
+        ],
+        "text" : "半亩方塘一鉴开，天光云影共徘徊。",
+        "verificationStatus" : "approved",
+        "work" : "观书有感·其一"
+      },
+      {
+        "author" : "朱熹",
+        "displayLines" : [
+          "问渠那得清如许，",
+          "为有源头活水来。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-012b87f1a35d-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《观书有感·其一》摘句。校对参考：维基文库原文（修订 1995632）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%A7%80%E6%9B%B8%E6%9C%89%E6%84%9F&oldid=1995632",
+        "tags" : [
+
+        ],
+        "text" : "问渠那得清如许，为有源头活水来。",
+        "verificationStatus" : "approved",
+        "work" : "观书有感·其一"
+      },
+      {
+        "author" : "王安石",
+        "displayLines" : [
+          "京口瓜洲一水间，",
+          "钟山只隔数重山。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-31d101c5a0a0-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《泊船瓜洲》摘句。校对参考：维基文库原文（修订 2546238）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B3%8A%E8%88%B9%E7%93%9C%E6%B4%B2&oldid=2546238",
+        "tags" : [
+
+        ],
+        "text" : "京口瓜洲一水间，钟山只隔数重山。",
+        "verificationStatus" : "approved",
+        "work" : "泊船瓜洲"
+      },
+      {
+        "author" : "王安石",
+        "displayLines" : [
+          "墙角数枝梅，",
+          "凌寒独自开。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-2f5167edf9de-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《梅花》摘句。校对参考：维基文库原文（修订 1744202）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%A2%85%E8%8A%B1+%28%E7%8E%8B%E5%AE%89%E7%9F%B3%29&oldid=1744202",
+        "tags" : [
+
+        ],
+        "text" : "墙角数枝梅，凌寒独自开。",
+        "verificationStatus" : "approved",
+        "work" : "梅花"
+      },
+      {
+        "author" : "王安石",
+        "displayLines" : [
+          "遥知不是雪，",
+          "为有暗香来。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-2f5167edf9de-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《梅花》摘句。校对参考：维基文库原文（修订 1744202）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%A2%85%E8%8A%B1+%28%E7%8E%8B%E5%AE%89%E7%9F%B3%29&oldid=1744202",
+        "tags" : [
+
+        ],
+        "text" : "遥知不是雪，为有暗香来。",
+        "verificationStatus" : "approved",
+        "work" : "梅花"
+      },
+      {
+        "author" : "王安石",
+        "displayLines" : [
+          "茅檐长扫净无苔，",
+          "花木成畦手自栽。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-c0855835b122-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《书湖阴先生壁·其一》摘句。校对参考：维基文库原文（修订 2709760）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9B%B8%E6%B9%96%E9%99%B0%E5%85%88%E7%94%9F%E5%A3%81&oldid=2709760",
+        "tags" : [
+
+        ],
+        "text" : "茅檐长扫净无苔，花木成畦手自栽。",
+        "verificationStatus" : "approved",
+        "work" : "书湖阴先生壁·其一"
+      },
+      {
+        "author" : "王安石",
+        "displayLines" : [
+          "一水护田将绿绕，",
+          "两山排闼送青来。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-c0855835b122-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《书湖阴先生壁·其一》摘句。校对参考：维基文库原文（修订 2709760）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%9B%B8%E6%B9%96%E9%99%B0%E5%85%88%E7%94%9F%E5%A3%81&oldid=2709760",
+        "tags" : [
+
+        ],
+        "text" : "一水护田将绿绕，两山排闼送青来。",
+        "verificationStatus" : "approved",
+        "work" : "书湖阴先生壁·其一"
+      },
+      {
+        "author" : "陶渊明",
+        "displayLines" : [
+          "结庐在人境，",
+          "而无车马喧。"
+        ],
+        "dynasty" : "晋",
+        "id" : "q-c4963517b419-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《饮酒·其五》摘句。校对参考：维基文库原文（修订 2692638）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%A3%B2%E9%85%92%E4%BA%8C%E5%8D%81%E9%A6%96&oldid=2692638",
+        "tags" : [
+
+        ],
+        "text" : "结庐在人境，而无车马喧。",
+        "verificationStatus" : "approved",
+        "work" : "饮酒·其五"
+      },
+      {
+        "author" : "陶渊明",
+        "displayLines" : [
+          "采菊东篱下，",
+          "悠然见南山。"
+        ],
+        "dynasty" : "晋",
+        "id" : "q-c4963517b419-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《饮酒·其五》摘句。校对参考：维基文库原文（修订 2692638）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%A3%B2%E9%85%92%E4%BA%8C%E5%8D%81%E9%A6%96&oldid=2692638",
+        "tags" : [
+
+        ],
+        "text" : "采菊东篱下，悠然见南山。",
+        "verificationStatus" : "approved",
+        "work" : "饮酒·其五"
+      },
+      {
+        "author" : "陶渊明",
+        "displayLines" : [
+          "山气日夕佳，",
+          "飞鸟相与还。"
+        ],
+        "dynasty" : "晋",
+        "id" : "q-c4963517b419-03",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《饮酒·其五》摘句。校对参考：维基文库原文（修订 2692638）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%A3%B2%E9%85%92%E4%BA%8C%E5%8D%81%E9%A6%96&oldid=2692638",
+        "tags" : [
+
+        ],
+        "text" : "山气日夕佳，飞鸟相与还。",
+        "verificationStatus" : "approved",
+        "work" : "饮酒·其五"
+      },
+      {
+        "author" : "陶渊明",
+        "displayLines" : [
+          "久在樊笼里，",
+          "复得返自然。"
+        ],
+        "dynasty" : "晋",
+        "id" : "q-cb9634cc5602-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《归园田居·其一》摘句。校对参考：维基文库原文（修订 3702704）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%AD%B8%E5%9C%92%E7%94%B0%E5%B1%85&oldid=3702704",
+        "tags" : [
+
+        ],
+        "text" : "久在樊笼里，复得返自然。",
+        "verificationStatus" : "approved",
+        "work" : "归园田居·其一"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "长风破浪会有时，",
+          "直挂云帆济沧海。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-419779624f62-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《行路难·其一》摘句。校对参考：维基文库原文（修订 2602560）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E8%A1%8C%E8%B7%AF%E9%9B%A3+%28%E9%87%91%E6%A8%BD%E6%B8%85%E9%85%92%E6%96%97%E5%8D%81%E5%8D%83%29&oldid=2602560",
+        "tags" : [
+
+        ],
+        "text" : "长风破浪会有时，直挂云帆济沧海。",
+        "verificationStatus" : "approved",
+        "work" : "行路难·其一"
+      },
+      {
+        "author" : "李白",
+        "displayLines" : [
+          "人生得意须尽欢，",
+          "莫使金樽空对月。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-d7526561f1a5-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《将进酒》摘句。校对参考：维基文库原文（修订 12696100）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B0%87%E9%80%B2%E9%85%92+%28%E6%9D%8E%E7%99%BD%29&oldid=12696100",
+        "tags" : [
+
+        ],
+        "text" : "人生得意须尽欢，莫使金樽空对月。",
+        "verificationStatus" : "approved",
+        "work" : "将进酒"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "白云回望合，",
+          "青霭入看无。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-74c39fce9562-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《终南山》摘句。校对参考：维基文库原文（修订 2018203）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%B5%82%E5%8D%97%E5%B1%B1+%28%E7%8E%8B%E7%B6%AD%29&oldid=2018203",
+        "tags" : [
+
+        ],
+        "text" : "白云回望合，青霭入看无。",
+        "verificationStatus" : "approved",
+        "work" : "终南山"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "欲投人处宿，",
+          "隔水问樵夫。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-74c39fce9562-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《终南山》摘句。校对参考：维基文库原文（修订 2018203）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%B5%82%E5%8D%97%E5%B1%B1+%28%E7%8E%8B%E7%B6%AD%29&oldid=2018203",
+        "tags" : [
+
+        ],
+        "text" : "欲投人处宿，隔水问樵夫。",
+        "verificationStatus" : "approved",
+        "work" : "终南山"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "江流天地外，",
+          "山色有无中。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-d600c53ad2b0-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《汉江临泛》摘句。校对参考：维基文库原文（修订 1985614）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%B1%9F%E8%87%A8%E6%B1%8E&oldid=1985614",
+        "tags" : [
+
+        ],
+        "text" : "江流天地外，山色有无中。",
+        "verificationStatus" : "approved",
+        "work" : "汉江临泛"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "山中相送罢，",
+          "日暮掩柴扉。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-330ec4cd5923-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《送别》摘句。校对参考：维基文库原文（修订 1982067）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%88%A5+%28%E5%B1%B1%E4%B8%AD%E7%9B%B8%E9%80%81%E7%BD%B7%29&oldid=1982067",
+        "tags" : [
+
+        ],
+        "text" : "山中相送罢，日暮掩柴扉。",
+        "verificationStatus" : "approved",
+        "work" : "送别"
+      },
+      {
+        "author" : "王维",
+        "displayLines" : [
+          "春草明年绿，",
+          "王孙归不归？"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-330ec4cd5923-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《送别》摘句。校对参考：维基文库原文（修订 1982067）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%88%A5+%28%E5%B1%B1%E4%B8%AD%E7%9B%B8%E9%80%81%E7%BD%B7%29&oldid=1982067",
+        "tags" : [
+
+        ],
+        "text" : "春草明年绿，王孙归不归？",
+        "verificationStatus" : "approved",
+        "work" : "送别"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "黄四娘家花满蹊，",
+          "千朵万朵压枝低。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-f6a7516179bf-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《江畔独步寻花·其六》摘句。校对参考：维基文库原文（修订 2608717）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E7%95%94%E7%8D%A8%E6%AD%A5%E5%B0%8B%E8%8A%B1%E4%B8%83%E7%B5%B6%E5%8F%A5&oldid=2608717",
+        "tags" : [
+
+        ],
+        "text" : "黄四娘家花满蹊，千朵万朵压枝低。",
+        "verificationStatus" : "approved",
+        "work" : "江畔独步寻花·其六"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "留连戏蝶时时舞，",
+          "自在娇莺恰恰啼。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-f6a7516179bf-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《江畔独步寻花·其六》摘句。校对参考：维基文库原文（修订 2608717）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E7%95%94%E7%8D%A8%E6%AD%A5%E5%B0%8B%E8%8A%B1%E4%B8%83%E7%B5%B6%E5%8F%A5&oldid=2608717",
+        "tags" : [
+
+        ],
+        "text" : "留连戏蝶时时舞，自在娇莺恰恰啼。",
+        "verificationStatus" : "approved",
+        "work" : "江畔独步寻花·其六"
+      },
+      {
+        "author" : "杜甫",
+        "displayLines" : [
+          "正是江南好风景，",
+          "落花时节又逢君。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-cfa0d5980cdb-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《江南逢李龟年》摘句。校对参考：维基文库原文（修订 1534428）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E5%8D%97%E9%80%A2%E6%9D%8E%E9%BE%9C%E5%B9%B4&oldid=1534428",
+        "tags" : [
+
+        ],
+        "text" : "正是江南好风景，落花时节又逢君。",
+        "verificationStatus" : "approved",
+        "work" : "江南逢李龟年"
+      },
+      {
+        "author" : "陈子昂",
+        "displayLines" : [
+          "前不见古人，",
+          "后不见来者。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-02d9ed81448f-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《登幽州台歌》摘句。校对参考：维基文库原文（修订 1981897）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%99%BB%E5%B9%BD%E5%B7%9E%E8%87%BA%E6%AD%8C&oldid=1981897",
+        "tags" : [
+
+        ],
+        "text" : "前不见古人，后不见来者。",
+        "verificationStatus" : "approved",
+        "work" : "登幽州台歌"
+      },
+      {
+        "author" : "陈子昂",
+        "displayLines" : [
+          "念天地之悠悠，",
+          "独怆然而涕下。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-02d9ed81448f-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《登幽州台歌》摘句。校对参考：维基文库原文（修订 1981897）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%99%BB%E5%B9%BD%E5%B7%9E%E8%87%BA%E6%AD%8C&oldid=1981897",
+        "tags" : [
+
+        ],
+        "text" : "念天地之悠悠，独怆然而涕下。",
+        "verificationStatus" : "approved",
+        "work" : "登幽州台歌"
+      },
+      {
+        "author" : "刘长卿",
+        "displayLines" : [
+          "日暮苍山远，",
+          "天寒白屋贫。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3362f2edf915-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《逢雪宿芙蓉山主人》摘句。校对参考：维基文库原文（修订 1990520）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%80%A2%E9%9B%AA%E5%AE%BF%E8%8A%99%E8%93%89%E5%B1%B1%E4%B8%BB%E4%BA%BA&oldid=1990520",
+        "tags" : [
+
+        ],
+        "text" : "日暮苍山远，天寒白屋贫。",
+        "verificationStatus" : "approved",
+        "work" : "逢雪宿芙蓉山主人"
+      },
+      {
+        "author" : "刘长卿",
+        "displayLines" : [
+          "柴门闻犬吠，",
+          "风雪夜归人。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3362f2edf915-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《逢雪宿芙蓉山主人》摘句。校对参考：维基文库原文（修订 1990520）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E9%80%A2%E9%9B%AA%E5%AE%BF%E8%8A%99%E8%93%89%E5%B1%B1%E4%B8%BB%E4%BA%BA&oldid=1990520",
+        "tags" : [
+
+        ],
+        "text" : "柴门闻犬吠，风雪夜归人。",
+        "verificationStatus" : "approved",
+        "work" : "逢雪宿芙蓉山主人"
+      },
+      {
+        "author" : "贾岛",
+        "displayLines" : [
+          "松下问童子，",
+          "言师采药去。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-73a405c9ede0-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《寻隐者不遇》摘句。校对参考：维基文库原文（修订 1310721）。采用简体字与现代标点，规范异体字。通行署名贾岛，另有孙革署名说。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B0%8B%E9%9A%B1%E8%80%85%E4%B8%8D%E9%81%87&oldid=1310721",
+        "tags" : [
+
+        ],
+        "text" : "松下问童子，言师采药去。",
+        "verificationStatus" : "approved",
+        "work" : "寻隐者不遇"
+      },
+      {
+        "author" : "贾岛",
+        "displayLines" : [
+          "只在此山中，",
+          "云深不知处。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-73a405c9ede0-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《寻隐者不遇》摘句。校对参考：维基文库原文（修订 1310721）。采用简体字与现代标点，规范异体字。通行署名贾岛，另有孙革署名说。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%B0%8B%E9%9A%B1%E8%80%85%E4%B8%8D%E9%81%87&oldid=1310721",
+        "tags" : [
+
+        ],
+        "text" : "只在此山中，云深不知处。",
+        "verificationStatus" : "approved",
+        "work" : "寻隐者不遇"
+      },
+      {
+        "author" : "韦应物",
+        "displayLines" : [
+          "独怜幽草涧边生，",
+          "上有黄鹂深树鸣。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-ec040dc815cc-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《滁州西涧》摘句。校对参考：维基文库原文（修订 1981825）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%BB%81%E5%B7%9E%E8%A5%BF%E6%BE%97&oldid=1981825",
+        "tags" : [
+
+        ],
+        "text" : "独怜幽草涧边生，上有黄鹂深树鸣。",
+        "verificationStatus" : "approved",
+        "work" : "滁州西涧"
+      },
+      {
+        "author" : "韦应物",
+        "displayLines" : [
+          "春潮带雨晚来急，",
+          "野渡无人舟自横。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-ec040dc815cc-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《滁州西涧》摘句。校对参考：维基文库原文（修订 1981825）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E6%BB%81%E5%B7%9E%E8%A5%BF%E6%BE%97&oldid=1981825",
+        "tags" : [
+
+        ],
+        "text" : "春潮带雨晚来急，野渡无人舟自横。",
+        "verificationStatus" : "approved",
+        "work" : "滁州西涧"
+      },
+      {
+        "author" : "刘禹锡",
+        "displayLines" : [
+          "东边日出西边雨，",
+          "道是无晴却有晴。"
+        ],
+        "dynasty" : "唐",
+        "id" : "q-3cc284080946-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《竹枝词·其一》摘句。校对参考：维基文库原文（修订 1754131）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%AB%B9%E6%9E%9D%E8%A9%9E%E4%BA%8C%E9%A6%96&oldid=1754131",
+        "tags" : [
+
+        ],
+        "text" : "东边日出西边雨，道是无晴却有晴。",
+        "verificationStatus" : "approved",
+        "work" : "竹枝词·其一"
+      },
+      {
+        "author" : "郑燮",
+        "displayLines" : [
+          "咬定青山不放松，",
+          "立根原在破岩中。"
+        ],
+        "dynasty" : "清",
+        "id" : "q-f47dcf9012ba-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《竹石》摘句。校对参考：维基文库原文（修订 374465）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%AB%B9%E7%9F%B3&oldid=374465",
+        "tags" : [
+
+        ],
+        "text" : "咬定青山不放松，立根原在破岩中。",
+        "verificationStatus" : "approved",
+        "work" : "竹石"
+      },
+      {
+        "author" : "郑燮",
+        "displayLines" : [
+          "千磨万击还坚劲，",
+          "任尔东西南北风。"
+        ],
+        "dynasty" : "清",
+        "id" : "q-f47dcf9012ba-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《竹石》摘句。校对参考：维基文库原文（修订 374465）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E7%AB%B9%E7%9F%B3&oldid=374465",
+        "tags" : [
+
+        ],
+        "text" : "千磨万击还坚劲，任尔东西南北风。",
+        "verificationStatus" : "approved",
+        "work" : "竹石"
+      },
+      {
+        "author" : "苏轼",
+        "displayLines" : [
+          "人生到处知何似？",
+          "应似飞鸿踏雪泥。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-b0c722ec9762-01",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《和子由渑池怀旧》摘句。校对参考：维基文库原文（修订 471592）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%92%8C%E5%AD%90%E7%94%B1%E6%BE%A0%E6%B1%A0%E6%87%B7%E8%88%8A&oldid=471592",
+        "tags" : [
+
+        ],
+        "text" : "人生到处知何似？应似飞鸿踏雪泥。",
+        "verificationStatus" : "approved",
+        "work" : "和子由渑池怀旧"
+      },
+      {
+        "author" : "苏轼",
+        "displayLines" : [
+          "泥上偶然留指爪，",
+          "鸿飞那复计东西。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-b0c722ec9762-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《和子由渑池怀旧》摘句。校对参考：维基文库原文（修订 471592）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%92%8C%E5%AD%90%E7%94%B1%E6%BE%A0%E6%B1%A0%E6%87%B7%E8%88%8A&oldid=471592",
+        "tags" : [
+
+        ],
+        "text" : "泥上偶然留指爪，鸿飞那复计东西。",
+        "verificationStatus" : "approved",
+        "work" : "和子由渑池怀旧"
+      },
+      {
+        "author" : "苏轼",
+        "displayLines" : [
+          "回首向来萧瑟处，",
+          "归去，",
+          "也无风雨也无晴。"
+        ],
+        "dynasty" : "宋",
+        "id" : "q-49a5aeba393e-02",
+        "rightsNote" : "古代作者诗词原文，公有领域。字形及标点作编辑处理，不含现代译文、注释。校对来源为维基文库，保留原始修订链接。",
+        "sourceReference" : "《定风波·莫听穿林打叶声》摘句。校对参考：维基文库原文（修订 8732900）。采用简体字与现代标点，规范异体字。",
+        "sourceURL" : "https://zh.wikisource.org/w/index.php?title=%E5%AE%9A%E9%A2%A8%E6%B3%A2+%28%E8%8E%AB%E8%81%BD%E7%A9%BF%E6%9E%97%E6%89%93%E8%91%89%E8%81%B2%29&oldid=8732900",
+        "tags" : [
+
+        ],
+        "text" : "回首向来萧瑟处，归去，也无风雨也无晴。",
+        "verificationStatus" : "approved",
+        "work" : "定风波·莫听穿林打叶声"
+      }
+    ]
+  },
+  "interpretations" : {
+    "contentVersion" : 2,
+    "entries" : [
+      {
+        "annotations" : [
+          {
+            "explanation" : "流水尽头。",
+            "term" : "水穷"
+          }
+        ],
+        "appreciation" : "行路与静坐自然衔接，水尽之处仍有云起可看。诗句把目光从脚下转向天空，写出随兴游山、安于当下的从容。它首先是一段山居经验，不必把每个景物都解释成人生寓言。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "行到水穷处，坐看云起时。",
+        "quoteID" : "wangwei-zhongnanbieye-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%B5%82%E5%8D%97%E5%88%A5%E6%A5%AD&oldid=1982349"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "走到流水的尽头，便坐下来看看云气升起。",
+        "work" : "终南别业"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "日暮，傍晚。",
+            "term" : "暝"
+          }
+        ],
+        "appreciation" : "雨后的清新与入晚的微凉共同开启全诗。这里的“空”强调山居的幽静，并不意味着山中完全无人；后文的浣女与渔舟，正让宁静的景色有了生活的温度。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "空山新雨后，天气晚来秋。",
+        "quoteID" : "q-3a02dda79745-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D&oldid=2276100"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "空寂的山中刚下过雨，傍晚的空气带来了秋意。",
+        "work" : "山居秋暝"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "上句写月光与松影，下句写泉水的流动。清明的光色与轻细的水声相互映衬，既有画面的疏朗，也有可听见的生机，让雨后秋山显得洁净而安宁。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "明月松间照，清泉石上流。",
+        "quoteID" : "q-3a02dda79745-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D&oldid=2276100"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "明月的光从松林间洒落，清澈的泉水在石上流淌。",
+        "work" : "山居秋暝"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "洗衣的女子。",
+            "term" : "浣女"
+          }
+        ],
+        "appreciation" : "诗人先捕捉声音和莲叶的变化，再点出归人和渔舟。人并非直接走到画面中央，而是由环境的细微反应带出；山居的幽静因此没有脱离寻常劳作。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "竹喧归浣女，莲动下渔舟。",
+        "quoteID" : "q-3a02dda79745-03",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B1%B1%E5%B1%85%E7%A7%8B%E6%9A%9D&oldid=2276100"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "竹林里传来洗衣女子归来的笑语，莲叶摇动，是渔舟顺流而下。",
+        "work" : "山居秋暝"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "幽深的竹林。",
+            "term" : "幽篁"
+          }
+        ],
+        "appreciation" : "“独坐”写出独处，“弹琴”“长啸”则使独处并不沉闷。声音在竹林中舒展，呈现一种无需观众的自得；这里的长啸是舒声吟啸，不等同于悲痛呼喊。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "独坐幽篁里，弹琴复长啸。",
+        "quoteID" : "q-e7d2eaa4f943-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%BC%9E%E5%B7%9D%E9%9B%86+%28%E7%8E%8B%E7%B6%AD%29%2F%E7%AB%B9%E9%87%8C%E9%A4%A8&oldid=2328978"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "独自坐在幽深的竹林里，弹一会儿琴，又放声长啸。",
+        "work" : "竹里馆"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "明月被写成主动到来的伴侣，与“人不知”相接，化解了独处的冷清。诗人没有解释自己的心情，而让林深、月明与静坐的人构成一个自足的小世界。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "深林人不知，明月来相照。",
+        "quoteID" : "q-e7d2eaa4f943-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%BC%9E%E5%B7%9D%E9%9B%86+%28%E7%8E%8B%E7%B6%AD%29%2F%E7%AB%B9%E9%87%8C%E9%A4%A8&oldid=2328978"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "身在深林，没有人知道我在这里，只有明月来相伴照耀。",
+        "work" : "竹里馆"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "视觉上的无人和听觉中的人声形成错落。短暂的声音并未打破整体的幽静，反而让空山的深远变得可以感知，这是以声衬静的细腻写法。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "空山不见人，但闻人语响。",
+        "quoteID" : "q-cfff29fc49bc-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%B9%BF%E6%9F%B4+%28%E7%8E%8B%E7%B6%AD%29&oldid=12232893"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "空寂的山里看不见人，只听见有人说话的声音。",
+        "work" : "鹿柴"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "夕阳返照的光，“景”在此指日光。",
+            "term" : "返景"
+          }
+        ],
+        "appreciation" : "诗人把目光收束到林中一小片被照亮的青苔。明处很小，周围的幽暗与深静却因此更显分明；光线的短暂移动，也让静止的画面带上时间感。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "返景入深林，复照青苔上。",
+        "quoteID" : "q-cfff29fc49bc-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%B9%BF%E6%9F%B4+%28%E7%8E%8B%E7%B6%AD%29&oldid=12232893"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "夕阳返照的光进入深林，又落在青苔上。",
+        "work" : "鹿柴"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "极轻微的花落与人的闲静相连，写的是感知如何在安静中变得敏锐。诗句没有铺陈繁花盛景，而以细小变化表现春夜；桂花的具体品种不必在没有依据时坐实。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "人闲桂花落，夜静春山空。",
+        "quoteID" : "q-e4a3fdfbf8cf-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%9A%87%E7%94%AB%E5%B6%BD%E9%9B%B2%E6%BA%AA%E9%9B%9C%E9%A1%8C%E4%BA%94%E9%A6%96%2F%E9%B3%A5%E9%B3%B4%E6%BE%97&oldid=2328994"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "人闲静下来，觉察到桂花飘落；夜色寂静，春山显得空幽。",
+        "work" : "鸟鸣涧"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "不时鸣叫。",
+            "term" : "时鸣"
+          }
+        ],
+        "appreciation" : "月出的光线、鸟的惊动和间歇的鸣叫依次展开。一个“时”字保留了鸣声之间的静默，声音越稀疏，越能让人感觉山涧的幽深与夜色的宁静。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "月出惊山鸟，时鸣春涧中。",
+        "quoteID" : "q-e4a3fdfbf8cf-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%9A%87%E7%94%AB%E5%B6%BD%E9%9B%B2%E6%BA%AA%E9%9B%9C%E9%A1%8C%E4%BA%94%E9%A6%96%2F%E9%B3%A5%E9%B3%B4%E6%BE%97&oldid=2328994"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "月亮升起，惊动了山鸟，鸟鸣不时在春日山涧中响起。",
+        "work" : "鸟鸣涧"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "南方地区。",
+            "term" : "南国"
+          }
+        ],
+        "appreciation" : "由一株植物起笔，用轻轻的问候牵出对远人的惦念。诗意不在植物知识，而在春来枝发与人的思念相互唤起；这里的红豆是相思的寄托，不宜混同日常食用赤豆。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "红豆生南国，春来发几枝。",
+        "quoteID" : "q-dc71346e8301-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%9B%B8%E6%80%9D&oldid=2450604"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "红豆树生长在南方，春天来了，不知又长出几枝新芽。",
+        "work" : "相思"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "采摘。",
+            "term" : "采撷"
+          }
+        ],
+        "appreciation" : "“愿君”把描写转成直接的叮咛，情意因而亲近。“多”字让惜别与惦念有了分量，红豆也从眼前之物变成可携带、可相赠的记忆，不必将这种相思只限定为爱情。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "愿君多采撷，此物最相思。",
+        "quoteID" : "q-dc71346e8301-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%9B%B8%E6%80%9D&oldid=2450604"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "愿你多采一些红豆，它最能寄托相思之情。",
+        "work" : "相思"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "润湿。",
+            "term" : "浥"
+          }
+        ],
+        "appreciation" : "送别从一场清晨小雨写起，景色清润，却没有直接说愁。柳色之新与即将分别的时刻相接，使平常的旅舍景象格外清晰，也为下文劝酒留下温柔的铺垫。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "渭城朝雨浥轻尘，客舍青青柳色新。",
+        "quoteID" : "q-84d2291437e2-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%85%83%E4%BA%8C%E4%BD%BF%E5%AE%89%E8%A5%BF&oldid=12232830"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "渭城清晨的雨润湿了轻尘，旅舍旁的柳树显得青翠一新。",
+        "work" : "送元二使安西"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "旧友。",
+            "term" : "故人"
+          }
+        ],
+        "appreciation" : "“更”写出酒已劝过而仍难放行，情意落在一个具体动作里。后句遥想友人将去的远方，以熟人与陌地的距离衬托此刻相聚的珍贵，不是对旅途人际的字面断言。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "劝君更尽一杯酒，西出阳关无故人。",
+        "quoteID" : "q-84d2291437e2-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%85%83%E4%BA%8C%E4%BD%BF%E5%AE%89%E8%A5%BF&oldid=12232830"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "请你再喝尽这一杯酒吧，向西出了阳关，就少有熟识的朋友相伴了。",
+        "work" : "送元二使安西"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "大漠与长河铺开空间，孤烟与落日成为其中清楚的线条和形状。“直”“圆”用字朴素，却使辽远的边塞景象具有鲜明的秩序与力量；烟的具体成因可保留解释空间。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "大漠孤烟直，长河落日圆。",
+        "quoteID" : "q-33c78d3959c6-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E4%BD%BF%E8%87%B3%E5%A1%9E%E4%B8%8A&oldid=1982320"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "辽阔沙漠中，一缕烟笔直升起；长河尽处，落日显得浑圆。",
+        "work" : "使至塞上"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "天亮。",
+            "term" : "晓"
+          }
+        ],
+        "appreciation" : "诗从醒来的听觉写起，不先交代景色。鸟声将室内的睡意与室外的春晨连接起来，语气自然轻快；“不觉”也写出春眠的舒适，让读者仿佛一同慢慢醒来。",
+        "author" : "孟浩然",
+        "editorialVersion" : 1,
+        "originalText" : "春眠不觉晓，处处闻啼鸟。",
+        "quoteID" : "q-650da9c7d094-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E6%9B%89+%28%E5%AD%9F%E6%B5%A9%E7%84%B6%29&oldid=11123475"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "春日睡醒，不知不觉天已亮了，四处都听见鸟叫。",
+        "work" : "春晓"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "由眼前鸟鸣转而回想夜雨，明快的春晨里添了惜花的心情。末句没有数落花，也没有直说伤感，而以疑问保留想象，让对春光的怜惜显得轻柔。",
+        "author" : "孟浩然",
+        "editorialVersion" : 1,
+        "originalText" : "夜来风雨声，花落知多少。",
+        "quoteID" : "q-650da9c7d094-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E6%9B%89+%28%E5%AD%9F%E6%B5%A9%E7%84%B6%29&oldid=11123475"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "想起昨夜的风雨声，不知有多少花已经飘落。",
+        "work" : "春晓"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "水中小洲。",
+            "term" : "渚"
+          }
+        ],
+        "appreciation" : "停舟是旅途中短暂的安顿，却也是客愁重新浮起的时刻。“新”不是说愁此前不存在，而写旧有羁旅之感在日暮重新变得鲜明；烟渚使这种情绪有了朦胧的背景。",
+        "author" : "孟浩然",
+        "editorialVersion" : 1,
+        "originalText" : "移舟泊烟渚，日暮客愁新。",
+        "quoteID" : "q-24cf96665035-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%AE%BF%E5%BB%BA%E5%BE%B7%E6%B1%9F&oldid=1981947"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "把船移近烟雾笼罩的沙洲停泊，暮色中，旅人的愁绪又涌上心来。",
+        "work" : "宿建德江"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "“低”与“近”都是人在江舟上的感受。上句拉开原野的辽阔，下句把月影带到身边，既呈现清冷景色，也为旅人的孤独留下可以相对的陪伴。",
+        "author" : "孟浩然",
+        "editorialVersion" : 1,
+        "originalText" : "野旷天低树，江清月近人。",
+        "quoteID" : "q-24cf96665035-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%AE%BF%E5%BB%BA%E5%BE%B7%E6%B1%9F&oldid=1981947"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "原野空旷，远处天空仿佛低到树梢；江水清澈，月影仿佛贴近了人。",
+        "work" : "宿建德江"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "外城，此处指村庄外围。",
+            "term" : "郭"
+          }
+        ],
+        "appreciation" : "“合”写近处树木的围拢，“斜”写远处山势的展开。景物层次清楚，又没有刻意雕饰；这种自然安稳的环境，为全诗朋友相聚的亲切气氛提供了依托。",
+        "author" : "孟浩然",
+        "editorialVersion" : 1,
+        "originalText" : "绿树村边合，青山郭外斜。",
+        "quoteID" : "q-98fceba917f0-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%81%8E%E6%95%85%E4%BA%BA%E8%8E%8A&oldid=2691920"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "绿树环抱村庄，青山在村外斜斜延伸。",
+        "work" : "过故人庄"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "农历九月初九。",
+            "term" : "重阳"
+          }
+        ],
+        "appreciation" : "告别时不渲染离情，而自然约定下一次来访。“还来”表达对朋友与田园生活的喜爱，也让一次做客延续成未来的期待；“就菊花”通常理解为赏菊，兼有节日相聚之意。",
+        "author" : "孟浩然",
+        "editorialVersion" : 1,
+        "originalText" : "待到重阳日，还来就菊花。",
+        "quoteID" : "q-98fceba917f0-03",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%81%8E%E6%95%85%E4%BA%BA%E8%8E%8A&oldid=2691920"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "等到重阳节，我还要再来这里赏菊相聚。",
+        "work" : "过故人庄"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "于是，就。发生：此处指雨降下。",
+            "term" : "乃"
+          }
+        ],
+        "appreciation" : "诗开篇就以“好”表达喜悦，再把雨写得像能体察生长需要一样。它的可喜首先在于应时而来、滋养万物，全诗的情感由此落在春雨与生命的关系上。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "好雨知时节，当春乃发生。",
+        "quoteID" : "q-0b3f6272daf8-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E5%A4%9C%E5%96%9C%E9%9B%A8&oldid=2261431"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "这场好雨仿佛懂得时令，春天一到便及时降下。",
+        "work" : "春夜喜雨"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "悄悄地。",
+            "term" : "潜"
+          }
+        ],
+        "appreciation" : "“潜”“细”“无声”一起写出春雨柔和而持续的力量。诗中首先赞美的是雨对万物的滋养，后来也常被借来说潜移默化的影响；阅读时可先回到雨夜的具体感受。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "随风潜入夜，润物细无声。",
+        "quoteID" : "q-0b3f6272daf8-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E5%A4%9C%E5%96%9C%E9%9B%A8&oldid=2261431"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "春雨随着风悄悄来到夜里，细细滋润万物，几乎没有声响。",
+        "work" : "春夜喜雨"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "成都。花重：花沾雨水而显得饱满沉重。",
+            "term" : "锦官城"
+          }
+        ],
+        "appreciation" : "诗人由夜雨想象清晨，喜悦有了可见的颜色与重量。“湿”“重”让雨水与花朵紧密相连；这是对将来景象的期待，不能简单当作已经看到的清晨实景。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "晓看红湿处，花重锦官城。",
+        "quoteID" : "q-0b3f6272daf8-04",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E5%A4%9C%E5%96%9C%E9%9B%A8&oldid=2261431"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "料想天亮时，花朵带着雨水，红润而沉甸甸地开满锦官城。",
+        "work" : "春夜喜雨"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "终当，一定要。凌：登上。",
+            "term" : "会当"
+          }
+        ],
+        "appreciation" : "诗由远望转为登临的愿望，“会当”使语气坚定。群山之“小”来自视点的升高，也衬出泰山的雄伟；这里写的是尚待实现的志向，并非已经站在山顶的记录。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "会当凌绝顶，一览众山小。",
+        "quoteID" : "q-377f69c8f7f9-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E5%B6%BD+%28%E5%B2%B1%E5%AE%97%E5%A4%AB%E5%A6%82%E4%BD%95%29&oldid=2369154"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "一定要登上最高峰，到那时俯瞰四周，群山都会显得低小。",
+        "work" : "望岳"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "春日，春天白昼渐长。",
+            "term" : "迟日"
+          }
+        ],
+        "appreciation" : "日光、山水、春风与花香铺成一个温暖的整体。诗人并置视觉和嗅觉感受，不急于抒情，春天的舒展便从平实的景物中显现，也为下文燕子与鸳鸯的活动营造环境。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "迟日江山丽，春风花草香。",
+        "quoteID" : "q-3a71275a0db7-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%B5%95%E5%8F%A5%EF%BC%88%E9%81%B2%E6%97%A5%E6%B1%9F%E5%B1%B1%E9%BA%97%EF%BC%89&oldid=2643188"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "春日里江山明丽，春风送来花草的芳香。",
+        "work" : "绝句二首·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "泥土湿润松软。",
+            "term" : "泥融"
+          }
+        ],
+        "appreciation" : "飞燕与睡鸳鸯一动一静，都与春天的温度和湿度相应。诗句不只列举动物，还写出它们与环境的亲密联系，表现春日万物各得其所的生意。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "泥融飞燕子，沙暖睡鸳鸯。",
+        "quoteID" : "q-3a71275a0db7-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%B5%95%E5%8F%A5%EF%BC%88%E9%81%B2%E6%97%A5%E6%B1%9F%E5%B1%B1%E9%BA%97%EF%BC%89&oldid=2643188"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "泥土湿润松软，燕子飞来飞去；沙地温暖，鸳鸯安卧其上。",
+        "work" : "绝句二首·其一"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "“垂”把平野与夜空连在一起，“涌”让月色随江水活起来。宏阔的景象衬出舟中人的渺小，放回全诗看，壮丽并未消除漂泊感，反而使孤独更深。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "星垂平野阔，月涌大江流。",
+        "quoteID" : "q-0a2ce3f91528-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%97%85%E5%A4%9C%E6%9B%B8%E6%87%B7&oldid=2488403"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "星空低垂，映出原野的广阔；月影随着奔流的大江涌动。",
+        "work" : "旅夜书怀"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "清晨。还：返回，读 huán。",
+            "term" : "朝"
+          }
+        ],
+        "appreciation" : "高处的彩云与顺流的速度共同构成轻快的开端。“千里”与“一日”形成鲜明对照，突出行舟之迅疾，也传达旅程中的畅快，不必按现代里程计算理解。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "朝辞白帝彩云间，千里江陵一日还。",
+        "quoteID" : "q-20dc9abf86ac-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%97%A9%E7%99%BC%E7%99%BD%E5%B8%9D%E5%9F%8E&oldid=12232697"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "清晨辞别彩云间的白帝城，一日便顺流到达遥远的江陵。",
+        "work" : "早发白帝城"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "指庐山香炉峰。紫烟：阳光下呈紫色的水雾。",
+            "term" : "香炉"
+          }
+        ],
+        "appreciation" : "前句用光与雾写山峰的奇丽，后句以“挂”把流动的瀑布定成醒目的形象。远看的视点使瀑布有整体轮廓，也为下文飞流的奔腾蓄势。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "日照香炉生紫烟，遥看瀑布挂前川。",
+        "quoteID" : "q-3d1033064f86-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E5%BB%AC%E5%B1%B1%E7%80%91%E5%B8%83&oldid=2648625"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "阳光照着香炉峰，水雾泛起紫色；远远望去，瀑布像挂在山前的一条长川。",
+        "work" : "望庐山瀑布·其二"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "极高的天空。",
+            "term" : "九天"
+          }
+        ],
+        "appreciation" : "“飞”“直下”把远看的瀑布写出强烈动势，随后的银河联想又将景象推向天空。“三千尺”“九天”都是诗歌的夸张语言，重点在壮观的感受，而非测量数字。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "飞流直下三千尺，疑是银河落九天。",
+        "quoteID" : "q-3d1033064f86-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E5%BB%AC%E5%B1%B1%E7%80%91%E5%B8%83&oldid=2648625"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "瀑布飞泻直落，仿佛有三千尺高，令人疑心是银河从高天倾落。",
+        "work" : "望庐山瀑布·其二"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "鸟与云先后离开视野，画面由动趋静。“尽”“独”使独坐者的孤单显现，“闲”却又缓和了沉重感，为下文人与山相对的亲近准备出安静的空间。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "众鸟高飞尽，孤云独去闲。",
+        "quoteID" : "q-4ad16301ad24-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%8D%A8%E5%9D%90%E6%95%AC%E4%BA%AD%E5%B1%B1&oldid=482794"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "群鸟渐渐飞远，一片孤云也悠闲地飘走了。",
+        "work" : "独坐敬亭山"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "厌倦。",
+            "term" : "厌"
+          }
+        ],
+        "appreciation" : "山被写成能够相看、能够理解人的存在。“只有”流露孤独，“两不厌”又写出相伴的满足；两种意味并存，使这份人与自然的亲近既温柔又略带寂寞。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "相看两不厌，只有敬亭山。",
+        "quoteID" : "q-4ad16301ad24-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%8D%A8%E5%9D%90%E6%95%AC%E4%BA%AD%E5%B1%B1&oldid=482794"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "彼此久久相望而不觉厌倦的，只有我和敬亭山。",
+        "work" : "独坐敬亭山"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "月光的清白引出“霜”的错觉，诗从一个很小的感官瞬间开始。它未先说乡愁，却用夜色的清冷为思乡蓄意；这里保留“床”的通常读法，不以未经证实的器物说替代原文。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "床前明月光，疑是地上霜。",
+        "quoteID" : "q-66c1a0dd7a4a-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%9D%9C%E5%A4%9C%E6%80%9D&oldid=12232857"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "床前洒着明亮月光，恍惚间像是地上铺了一层霜。",
+        "work" : "静夜思"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "“举头”“低头”是极普通的动作，却把由观看到沉思的过程写得明白。月亮属于眼前，也连接远方；诗人不细说故乡的模样，让不同的读者都能放入自己的思念。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "举头望明月，低头思故乡。",
+        "quoteID" : "q-66c1a0dd7a4a-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%9D%9C%E5%A4%9C%E6%80%9D&oldid=12232857"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "抬头望见明月，低下头便思念起故乡。",
+        "work" : "静夜思"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "辽阔的原野。",
+            "term" : "大荒"
+          }
+        ],
+        "appreciation" : "诗句以行舟中的视角展现地形变化，山退去，平野展开，江水向远处延伸。“随”“入”使景物充满行进感，空间也由山间骤然变得开阔。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "山随平野尽，江入大荒流。",
+        "quoteID" : "q-3456a22ae2c3-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B8%A1%E8%8D%8A%E9%96%80%E9%80%81%E5%88%A5&oldid=1407789"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "两岸山势随着平原的出现而渐渐消失，江水流入辽阔的原野。",
+        "work" : "渡荆门送别"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "海市蜃楼般的楼台景象。",
+            "term" : "海楼"
+          }
+        ],
+        "appreciation" : "诗人把月影与云彩转为天镜、海楼的奇想。水中的明亮与空中的变幻相互照应，写出江面广阔后景象的瑰丽；“海楼”是譬喻，不必认定当时发生了真实蜃景。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "月下飞天镜，云生结海楼。",
+        "quoteID" : "q-3456a22ae2c3-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B8%A1%E8%8D%8A%E9%96%80%E9%80%81%E5%88%A5&oldid=1407789"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "月映江中，好像天镜飞落；云气升起，仿佛结成海市蜃楼。",
+        "work" : "渡荆门送别"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "喜爱，眷恋。",
+            "term" : "怜"
+          }
+        ],
+        "appreciation" : "不是直接说自己舍不得故乡，而写故乡之水送别行舟，让思念有了回应。水既伴随旅途，也承载来处，辽阔的远行因此保留了一条温柔的情感线索。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "仍怜故乡水，万里送行舟。",
+        "quoteID" : "q-3456a22ae2c3-03",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B8%A1%E8%8D%8A%E9%96%80%E9%80%81%E5%88%A5&oldid=1407789"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "仍旧眷恋故乡流来的江水，它仿佛一路送着我的船远行。",
+        "work" : "渡荆门送别"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "江名，今青衣江。",
+            "term" : "平羌"
+          }
+        ],
+        "appreciation" : "山月与江水共同组成远行的开端。“半轮”点出月形，“影入”把天上月与水上舟联系起来；月影似随江流，也为后文旅途中对月的眷恋埋下伏笔。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "峨眉山月半轮秋，影入平羌江水流。",
+        "quoteID" : "q-5d2b7df93a0d-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%9C%88%E6%AD%8C&oldid=482607"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "秋夜，半轮明月挂在峨眉山上，月影映入平羌江，随着江水流动。",
+        "work" : "峨眉山月歌"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "外城。",
+            "term" : "郭"
+          }
+        ],
+        "appreciation" : "“横”写山的铺展，“绕”写水的曲折，一静一动勾勒送别之地。“青”“白”清楚明净，未直言离愁，却让告别发生的地点具有可回望的形状。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "青山横北郭，白水绕东城。",
+        "quoteID" : "q-53c617dd4cd8-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%8F%8B%E4%BA%BA+%28%E6%9D%8E%E7%99%BD%29&oldid=2266670"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "青山横卧在城北，明净的河水环绕城东。",
+        "work" : "送友人"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "离乡远行的人。",
+            "term" : "游子"
+          }
+        ],
+        "appreciation" : "诗句省去解释，直接把游子与浮云、故人与落日并置。云的漂泊与日的迟留分别对应两人的处境，使送别不只是单向的不舍，也包含对友人远行的理解。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "浮云游子意，落日故人情。",
+        "quoteID" : "q-53c617dd4cd8-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%8F%8B%E4%BA%BA+%28%E6%9D%8E%E7%99%BD%29&oldid=2266670"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "浮云像远行人的心意，落日像老朋友依依不舍的情怀。",
+        "work" : "送友人"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "烟柳繁花般的春景。",
+            "term" : "烟花"
+          }
+        ],
+        "appreciation" : "明丽春景与友人远行相连，送别没有一开始就陷入凄苦。“烟花”写春光迷蒙、繁花盛开的景象，不能按今日焰火理解；“下”则贴合顺江而行的路线。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "故人西辞黄鹤楼，烟花三月下扬州。",
+        "quoteID" : "q-a90d372b0ad3-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%BB%83%E9%B6%B4%E6%A8%93%E9%80%81%E5%AD%9F%E6%B5%A9%E7%84%B6%E4%B9%8B%E5%BB%A3%E9%99%B5&oldid=12232908"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "老朋友辞别西边的黄鹤楼，在繁花似锦的暮春三月顺江前往扬州。",
+        "work" : "黄鹤楼送孟浩然之广陵"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "向阳、受日光照暖的树。",
+            "term" : "暖树"
+          }
+        ],
+        "appreciation" : "莺争树、燕衔泥，都是初春才格外醒目的动作。“几处”“谁家”保留了尚未处处繁盛的时令特点，诗人的目光随鸟移动，春天因此显得新鲜而活泼。",
+        "author" : "白居易",
+        "editorialVersion" : 1,
+        "originalText" : "几处早莺争暖树，谁家新燕啄春泥。",
+        "quoteID" : "q-76bda3a09a9e-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%8C%A2%E5%A1%98%E6%B9%96%E6%98%A5%E8%A1%8C&oldid=2458204"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "几处早来的黄莺争着飞向向阳的树，不知谁家的新燕正啄取春泥。",
+        "work" : "钱塘湖春行"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "遮没，读 mò。",
+            "term" : "没"
+          }
+        ],
+        "appreciation" : "“渐欲”“才能”写的都是正在生长的过程。花虽繁，草尚浅，诗人以细微的程度变化辨认早春，而不是笼统赞美热闹景色；马蹄也提示了骑行赏景的视点。",
+        "author" : "白居易",
+        "editorialVersion" : 1,
+        "originalText" : "乱花渐欲迷人眼，浅草才能没马蹄。",
+        "quoteID" : "q-76bda3a09a9e-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%8C%A2%E5%A1%98%E6%B9%96%E6%98%A5%E8%A1%8C&oldid=2458204"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "各色花朵渐渐使人眼花缭乱，初生的青草才刚刚能遮住马蹄。",
+        "work" : "钱塘湖春行"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "游赏不够，不愿离去。",
+            "term" : "行不足"
+          }
+        ],
+        "appreciation" : "全诗到这里直接点明“最爱”，把前面的沿途观察收束到一处心仪之地。“行不足”比抽象赞美更亲切，写出了流连的实际感受，绿杨与白堤也留下清楚的色彩对照。",
+        "author" : "白居易",
+        "editorialVersion" : 1,
+        "originalText" : "最爱湖东行不足，绿杨阴里白沙堤。",
+        "quoteID" : "q-76bda3a09a9e-03",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%8C%A2%E5%A1%98%E6%B9%96%E6%98%A5%E8%A1%8C&oldid=2458204"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "最喜欢湖东一带，总觉得走不够，尤其是绿杨荫中的白沙堤。",
+        "work" : "钱塘湖春行"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "草木茂盛的样子。",
+            "term" : "离离"
+          }
+        ],
+        "appreciation" : "“离离”先呈现草木盛长，再以一年的往复写其节律。枯与荣并列，不将某一时刻视为终局，为下句野火与春风的转折建立了自然基础。",
+        "author" : "白居易",
+        "editorialVersion" : 1,
+        "originalText" : "离离原上草，一岁一枯荣。",
+        "quoteID" : "q-a73b36eb2793-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%B3%A6%E5%BE%97%E5%8F%A4%E5%8E%9F%E8%8D%89%E9%80%81%E5%88%A5&oldid=1981926"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "原野上青草茂盛，每年都经历一次枯萎与繁荣。",
+        "work" : "赋得古原草送别"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "野火的猛烈与春风后的复生相对，“又”写出生命的延续。草根虽未直接出现，却是理解这幅图景的关键；诗句的力量来自自然观察，也因此常被借作顽强生命力的象征。",
+        "author" : "白居易",
+        "editorialVersion" : 1,
+        "originalText" : "野火烧不尽，春风吹又生。",
+        "quoteID" : "q-a73b36eb2793-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%B3%A6%E5%BE%97%E5%8F%A4%E5%8E%9F%E8%8D%89%E9%80%81%E5%88%A5&oldid=1981926"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "野火不能将草的生命烧尽，春风一来，它又重新生长。",
+        "work" : "赋得古原草送别"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "远处的芳草。",
+            "term" : "远芳"
+          }
+        ],
+        "appreciation" : "“侵”“接”把草写成不断伸展的存在，景物也从近处铺向远方。古道与荒城带有时间的痕迹，茂盛春草与这些旧迹相连，为全诗送别的情意增添悠远意味。",
+        "author" : "白居易",
+        "editorialVersion" : 1,
+        "originalText" : "远芳侵古道，晴翠接荒城。",
+        "quoteID" : "q-a73b36eb2793-03",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%B3%A6%E5%BE%97%E5%8F%A4%E5%8E%9F%E8%8D%89%E9%80%81%E5%88%A5&oldid=1981926"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "远处芳草延伸到古道，晴日里的翠绿一直连向荒城。",
+        "work" : "赋得古原草送别"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "新酒表面的细小泡沫。新醅：新酿的酒。",
+            "term" : "绿蚁"
+          }
+        ],
+        "appreciation" : "诗从酒与炉两样近身之物写起，色彩鲜明，规模却很小。新酒的亲切与炉火的温暖，预先构成待友而饮的环境；“绿蚁”是酒面细沫，并非真的昆虫。",
+        "author" : "白居易",
+        "editorialVersion" : 1,
+        "originalText" : "绿蚁新醅酒，红泥小火炉。",
+        "quoteID" : "q-4f77b5495bd4-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%95%8F%E5%8A%89%E5%8D%81%E4%B9%9D&oldid=1982858"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "新酿的酒泛着细细的泡沫，旁边是一只红泥小火炉。",
+        "work" : "问刘十九"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "句末疑问词，相当于“吗”。",
+            "term" : "无"
+          }
+        ],
+        "appreciation" : "天气越冷，邀饮便越显温暖。结尾用日常口吻发问，不铺张待客之意，却让炉火与新酒都有了对象；这份友谊的动人之处，正在于邀请的自然与体贴。",
+        "author" : "白居易",
+        "editorialVersion" : 1,
+        "originalText" : "晚来天欲雪，能饮一杯无？",
+        "quoteID" : "q-4f77b5495bd4-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%95%8F%E5%8A%89%E5%8D%81%E4%B9%9D&oldid=1982858"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "傍晚天色将要下雪，你能来喝一杯吗？",
+        "work" : "问刘十九"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "春天。",
+            "term" : "春朝"
+          }
+        ],
+        "appreciation" : "诗人先提出熟悉的悲秋传统，再用“我言”鲜明回应。它不是否认秋天可以令人感伤，而是主动选择另一种观看方式，使下文晴空白鹤成为这份判断的具体依据。",
+        "author" : "刘禹锡",
+        "editorialVersion" : 1,
+        "originalText" : "自古逢秋悲寂寥，我言秋日胜春朝。",
+        "quoteID" : "q-aeda61e8aca9-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%A7%8B%E8%A9%9E%E4%BA%8C%E9%A6%96&oldid=825813"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "自古人们常在秋天感叹寂寥，我却说秋日胜过春天。",
+        "work" : "秋词·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "冲开云层。碧霄：碧蓝天空。",
+            "term" : "排云"
+          }
+        ],
+        "appreciation" : "鹤的上升使秋景突破萧瑟的惯常印象。“排”表现冲举的力量，“引”把眼前动作与内心振奋接通，辽远天空因而成为诗情可以舒展的空间。",
+        "author" : "刘禹锡",
+        "editorialVersion" : 1,
+        "originalText" : "晴空一鹤排云上，便引诗情到碧霄。",
+        "quoteID" : "q-aeda61e8aca9-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%A7%8B%E8%A9%9E%E4%BA%8C%E9%A6%96&oldid=825813"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "晴空中一只鹤冲开云层而上，也把我的诗兴引向碧蓝高空。",
+        "work" : "秋词·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "未磨亮的铜镜，比喻湖面的朦胧光泽。",
+            "term" : "镜未磨"
+          }
+        ],
+        "appreciation" : "“和”写光色的协调，“镜未磨”则呈现远望时朦胧柔润的质感。诗人没有将湖写得透亮锋利，而保留月夜的含蓄，使平静水面显得辽阔而温柔。",
+        "author" : "刘禹锡",
+        "editorialVersion" : 1,
+        "originalText" : "湖光秋月两相和，潭面无风镜未磨。",
+        "quoteID" : "q-341bfe89bd04-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E6%B4%9E%E5%BA%AD&oldid=825927"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "湖面光色与秋月相互融合，无风的水面像一面尚未磨亮的铜镜。",
+        "work" : "望洞庭"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "青色螺壳，此处比喻湖中君山。",
+            "term" : "青螺"
+          }
+        ],
+        "appreciation" : "广阔湖面被比作银盘，湖中山色被比作青螺，宏大景象因此显得精巧可亲。比喻来自远望时的整体形态与色泽，并非把山水真的缩小，而是视点带来的审美变化。",
+        "author" : "刘禹锡",
+        "editorialVersion" : 1,
+        "originalText" : "遥望洞庭山水翠，白银盘里一青螺。",
+        "quoteID" : "q-341bfe89bd04-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9C%9B%E6%B4%9E%E5%BA%AD&oldid=825927"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "远望洞庭的山水一片青翠，仿佛白银盘中放着一枚青螺。",
+        "work" : "望洞庭"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "旁边。",
+            "term" : "侧畔"
+          }
+        ],
+        "appreciation" : "沉舟、病树与千帆、万木构成对照。放在酬答友人的全诗中，它兼有身世之感与对新生景象的注目；后来常用来说明更新，但不宜抹去原诗个人遭际的底色。",
+        "author" : "刘禹锡",
+        "editorialVersion" : 1,
+        "originalText" : "沉舟侧畔千帆过，病树前头万木春。",
+        "quoteID" : "q-8e9f4a64b42a-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%85%AC%E6%A8%82%E5%A4%A9%E6%8F%9A%E5%B7%9E%E5%88%9D%E9%80%A2%E5%B8%AD%E4%B8%8A%E8%A6%8B%E8%B4%88&oldid=1796694"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "沉船旁边，千帆驶过；病树前头，万木迎春。",
+        "work" : "酬乐天扬州初逢席上见赠"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "小路。踪：踪迹。",
+            "term" : "径"
+          }
+        ],
+        "appreciation" : "“千”“万”把视野铺得极广，“绝”“灭”又将生命活动一一收去。极端简净的背景让寒冷与寂静具有压迫感，也使后文孤舟独钓的人格外突出。",
+        "author" : "柳宗元",
+        "editorialVersion" : 1,
+        "originalText" : "千山鸟飞绝，万径人踪灭。",
+        "quoteID" : "q-6eef4aabddda-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E9%9B%AA&oldid=2315191"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "群山间不见飞鸟，条条道路上也没有人的踪迹。",
+        "work" : "江雪"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "蓑衣和斗笠。",
+            "term" : "蓑笠"
+          }
+        ],
+        "appreciation" : "“孤”“独”与上文千山万径形成数量上的对照。人物几乎没有动作描写，却因置身严寒而显出坚守的姿态；象征意味可以体会，但无需替诗人确定单一的政治寓意。",
+        "author" : "柳宗元",
+        "editorialVersion" : 1,
+        "originalText" : "孤舟蓑笠翁，独钓寒江雪。",
+        "quoteID" : "q-6eef4aabddda-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E9%9B%AA&oldid=2315191"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "一叶孤舟上，披蓑衣戴斗笠的老人，独自在风雪中的寒江垂钓。",
+        "work" : "江雪"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "落下，消失。",
+            "term" : "尽"
+          }
+        ],
+        "appreciation" : "上句写目力可见的落日，下句将河流伸向想象中的大海。山与河构成高低、远近不同的方向，短短十字展开宏阔空间，为下文登高望远作铺垫。",
+        "author" : "王之涣",
+        "editorialVersion" : 1,
+        "originalText" : "白日依山尽，黄河入海流。",
+        "quoteID" : "q-0a186ae1094a-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%99%BB%E9%B8%9B%E9%9B%80%E6%A8%93+%28%E7%8E%8B%E4%B9%8B%E6%B8%99%29&oldid=12232761"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "夕阳依着群山渐渐落下，黄河奔流着向大海而去。",
+        "work" : "登鹳雀楼"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "尽，达到尽头。",
+            "term" : "穷"
+          }
+        ],
+        "appreciation" : "由看见什么转为怎样看得更远，诗句将登楼的身体经验凝成清楚的道理。“更”保留了继续向上的余地；它既可以引申理解，也始终扎根于登临眺望的情境。",
+        "author" : "王之涣",
+        "editorialVersion" : 1,
+        "originalText" : "欲穷千里目，更上一层楼。",
+        "quoteID" : "q-0a186ae1094a-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%99%BB%E9%B8%9B%E9%9B%80%E6%A8%93+%28%E7%8E%8B%E4%B9%8B%E6%B8%99%29&oldid=12232761"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "想把更遥远的景色看尽，就再登上一层楼。",
+        "work" : "登鹳雀楼"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "天刚亮。",
+            "term" : "平明"
+          }
+        ],
+        "appreciation" : "夜雨与晨山连接一夜一晨，将送别笼在清寒之中。山被赋予人的孤独感，情绪因此融入景色；“孤”也为下文自陈心志保留了清峻的气息。",
+        "author" : "王昌龄",
+        "editorialVersion" : 1,
+        "originalText" : "寒雨连江夜入吴，平明送客楚山孤。",
+        "quoteID" : "q-b9c8b989bffa-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%8A%99%E8%93%89%E6%A8%93%E9%80%81%E8%BE%9B%E6%BC%B8+%28%E5%AF%92%E9%9B%A8%E9%80%A3%E6%B1%9F%E5%A4%9C%E5%85%A5%E5%90%B3%29&oldid=12232776"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "寒雨连着江面，夜间来到吴地；天亮送别友人，远处楚山显得孤单。",
+        "work" : "芙蓉楼送辛渐·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "比喻清明纯洁的心。",
+            "term" : "冰心"
+          }
+        ],
+        "appreciation" : "诗人没有托友人诉说困顿，而以冰与玉表明心志。两个清澈洁净的意象相叠，语气克制而坚定；这里的“冰心”首先指清白操守，不宜仅当作性情冷淡。",
+        "author" : "王昌龄",
+        "editorialVersion" : 1,
+        "originalText" : "洛阳亲友如相问，一片冰心在玉壶。",
+        "quoteID" : "q-b9c8b989bffa-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%8A%99%E8%93%89%E6%A8%93%E9%80%81%E8%BE%9B%E6%BC%B8+%28%E5%AF%92%E9%9B%A8%E9%80%A3%E6%B1%9F%E5%A4%9C%E5%85%A5%E5%90%B3%29&oldid=12232776"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "洛阳的亲友若问起我，请告诉他们：我的心仍像玉壶中的冰一样清明。",
+        "work" : "芙蓉楼送辛渐·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "近邻。",
+            "term" : "比邻"
+          }
+        ],
+        "appreciation" : "诗句承认距离，却把相知放在距离之上。它在送别中给予宽慰，语气开阔；可贵之处不是要求人不难过，而是指出友谊能够超出眼前分离，仍保持内在的亲近。",
+        "author" : "王勃",
+        "editorialVersion" : 1,
+        "originalText" : "海内存知己，天涯若比邻。",
+        "quoteID" : "q-03c5768e945b-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9D%9C%E5%B0%91%E5%BA%9C%E4%B9%8B%E4%BB%BB%E8%9C%80%E5%B7%9E&oldid=2439758"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "四海之内有彼此理解的朋友，即使远在天涯，也如同近邻。",
+        "work" : "送杜少府之任蜀州"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "对友人的尊称。",
+            "term" : "君"
+          }
+        ],
+        "appreciation" : "劝慰以对友人才华的信任为基础，“莫愁”之后的反问尤其有力。诗句没有停留在惜别，而把视线推向未来，使分别成为鼓励与祝愿，而非只剩失落。",
+        "author" : "高适",
+        "editorialVersion" : 1,
+        "originalText" : "莫愁前路无知己，天下谁人不识君。",
+        "quoteID" : "q-6359e15bf868-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%88%A5%E8%91%A3%E5%A4%A7&oldid=2674006"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "不要担心前路没有知心朋友，天下有谁不知道你呢？",
+        "work" : "别董大·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "因为。红于：比……更红。",
+            "term" : "坐"
+          }
+        ],
+        "appreciation" : "诗人由山行转入驻足，原因落在秋色的吸引力上。“红于”将秋叶与春花比较，改变了秋必萧瑟的惯常印象；“坐”表示因为，不能理解为坐在车上的动作。",
+        "author" : "杜牧",
+        "editorialVersion" : 1,
+        "originalText" : "停车坐爱枫林晚，霜叶红于二月花。",
+        "quoteID" : "q-4572171c9abf-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B1%B1%E8%A1%8C+%28%E6%9D%9C%E7%89%A7%29&oldid=1568824"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "停下车，只因喜爱傍晚的枫林；经霜的红叶，比二月春花还要红艳。",
+        "work" : "山行"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "山边城郭。酒旗：酒店招幌。",
+            "term" : "山郭"
+          }
+        ],
+        "appreciation" : "声音、颜色与风中的旗帜交错成江南春景。“千里”写整体印象，不是一个固定地点的目力范围；诗人将多处景象融成画卷，让春天既有自然之美，也有生活气息。",
+        "author" : "杜牧",
+        "editorialVersion" : 1,
+        "originalText" : "千里莺啼绿映红，水村山郭酒旗风。",
+        "quoteID" : "q-c43d85bc4aa3-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E5%8D%97%E6%98%A5&oldid=2391458"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "广阔江南莺啼声声，绿叶映着红花；临水村庄与山边城郭，酒旗迎风招展。",
+        "work" : "江南春"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "前句引入历史留下的建筑，后句将其放回朦胧春雨。寺院不只是风景，也使画面有了时间纵深；“四百八十”强调数量众多，诗的意味可容纳怀古，不宜据此断定唯一的批判对象。",
+        "author" : "杜牧",
+        "editorialVersion" : 1,
+        "originalText" : "南朝四百八十寺，多少楼台烟雨中。",
+        "quoteID" : "q-c43d85bc4aa3-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E5%8D%97%E6%98%A5&oldid=2391458"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "南朝留下的众多寺院，不知有多少楼台隐现在烟雨里。",
+        "work" : "江南春"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "轻薄丝织物。流萤：飞动的萤火虫。",
+            "term" : "轻罗"
+          }
+        ],
+        "appreciation" : "画屏与罗扇带出宫中环境，扑萤是一个细小而孤寂的动作。“冷”不仅写光色，也渗入人物的处境；诗未让她直接诉说，却由无聊消遣透露出漫长等待。",
+        "author" : "杜牧",
+        "editorialVersion" : 1,
+        "originalText" : "银烛秋光冷画屏，轻罗小扇扑流萤。",
+        "quoteID" : "q-6d8cadecd07c-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%A7%8B%E5%A4%95+%28%E6%9D%9C%E7%89%A7%29&oldid=2629627"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "秋夜烛光映着清冷的画屏，手持轻罗小扇扑打飞过的萤火虫。",
+        "work" : "秋夕"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "宫中的台阶。牵牛、织女：星名，亦关联牛郎织女传说。",
+            "term" : "天阶"
+          }
+        ],
+        "appreciation" : "夜凉由视觉转为触觉，人物的凝望又使星空有了情意。牛郎织女的传说映照人间的孤独，但诗没有替人物说尽；静静仰望的姿态留下了含蓄的感情空间。",
+        "author" : "杜牧",
+        "editorialVersion" : 1,
+        "originalText" : "天阶夜色凉如水，卧看牵牛织女星。",
+        "quoteID" : "q-6d8cadecd07c-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%A7%8B%E5%A4%95+%28%E6%9D%9C%E7%89%A7%29&oldid=2629627"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "宫阶上的夜色像水一般清凉，卧着仰望牵牛星与织女星。",
+        "work" : "秋夕"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "泛指巴蜀一带山地。",
+            "term" : "巴山"
+          }
+        ],
+        "appreciation" : "一问一答之间，重叠的“期”写出无法如愿的牵挂。随后转到眼前夜雨，把难以说尽的情绪寄托于池水上涨；收信人的具体身份有不同看法，译意不必预先锁定。",
+        "author" : "李商隐",
+        "editorialVersion" : 1,
+        "originalText" : "君问归期未有期，巴山夜雨涨秋池。",
+        "quoteID" : "q-ab9a4c50de0f-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%A4%9C%E9%9B%A8%E5%AF%84%E5%8C%97&oldid=1566402"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "你问何时回来，我还没有确定的日期；巴山的夜雨正使秋池涨满。",
+        "work" : "夜雨寄北"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "什么时候能够。却话：回头谈起。",
+            "term" : "何当"
+          }
+        ],
+        "appreciation" : "诗人从孤独的现在想象相聚的未来，又在未来回望现在。时间来回折叠，使夜雨既是愁绪的背景，也成了将来可以共同谈起的记忆；期待因具体的剪烛动作而亲切。",
+        "author" : "李商隐",
+        "editorialVersion" : 1,
+        "originalText" : "何当共剪西窗烛，却话巴山夜雨时。",
+        "quoteID" : "q-ab9a4c50de0f-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%A4%9C%E9%9B%A8%E5%AF%84%E5%8C%97&oldid=1566402"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "何时能在西窗下一起剪烛长谈，再回说此刻巴山夜雨中的心情？",
+        "work" : "夜雨寄北"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "美好与将逝在同一瞬间出现，使赞叹带着时间感。末句的语意与全诗情绪可以从不同角度体会，不宜把它硬定为单纯消极；眼前的光彩与迟暮的感受始终相互牵连。",
+        "author" : "李商隐",
+        "editorialVersion" : 1,
+        "originalText" : "夕阳无限好，只是近黄昏。",
+        "quoteID" : "q-34dfb89ba9bb-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%A8%82%E9%81%8A%E5%8E%9F+%28%E6%9D%8E%E5%95%86%E9%9A%B1%29&oldid=1989724"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "夕阳的景色无限美好，只是已经临近黄昏。",
+        "work" : "登乐游原"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "先写观看位置的变化，再写景物呈现的差异。山本身没有突然改变，变化的是人的视点；这一具体观察为全诗关于认识局限的思考奠基，而不是脱离山水的空泛说理。",
+        "author" : "苏轼",
+        "editorialVersion" : 1,
+        "originalText" : "横看成岭侧成峰，远近高低各不同。",
+        "quoteID" : "q-0d7399578bfb-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%A1%8C%E8%A5%BF%E6%9E%97%E5%A3%81+%28%E8%98%87%E8%BB%BE%29&oldid=8732088"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "正面看是连绵山岭，侧面看是突起山峰；远近高低不同，景象也各不相同。",
+        "work" : "题西林壁"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "西施，古代美女。",
+            "term" : "西子"
+          }
+        ],
+        "appreciation" : "诗人以人的不同妆容比拟西湖晴雨中的变化，把前文各有意趣的景色统一起来。“总相宜”不是抹平差异，而是欣赏不同状态中各自成立的美。",
+        "author" : "苏轼",
+        "editorialVersion" : 1,
+        "originalText" : "欲把西湖比西子，淡妆浓抹总相宜。",
+        "quoteID" : "q-666e557e23f5-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%A3%B2%E6%B9%96%E4%B8%8A%E5%88%9D%E6%99%B4%E5%BE%8C%E9%9B%A8%E5%85%B6%E4%BA%8C&oldid=8732096"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "若把西湖比作西施，无论淡妆还是浓妆，都显得恰到好处。",
+        "work" : "饮湖上初晴后雨·其二"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "清淡、清雅的欢愉。",
+            "term" : "清欢"
+          }
+        ],
+        "appreciation" : "放回词中看，这份感受连着春日出游、清茶与春蔬。“有味”既关乎口中滋味，也指生活情趣；清欢不必等同清苦，更不是排斥一切热闹，而是能品尝日常中的简净乐趣。",
+        "author" : "苏轼",
+        "editorialVersion" : 1,
+        "originalText" : "人间有味是清欢。",
+        "quoteID" : "q-9ae7dbe94f4c-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B5%A3%E6%BA%AA%E6%B2%99%EF%BC%88%E5%85%83%E8%B1%90%E4%B8%83%E5%B9%B4%E5%8D%81%E6%9C%88%E4%BA%8C%E5%8D%81%E5%9B%9B%E6%97%A5%EF%BC%8C%E5%BE%9E%E6%B3%97%E5%B7%9E%E5%8A%89%E5%80%A9%E5%8F%94%E9%81%8A%E5%8D%97%E5%B1%B1%EF%BC%89&oldid=1484055"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "人间值得细细体会的滋味，也在清淡而自在的欢愉之中。",
+        "work" : "浣溪沙·细雨斜风作晓寒"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "桃花点出初春，鸭的活动补充了画面无法直接呈现的水温。诗是题画之作，既观察画中景物，也凭经验想象其中的感受，让静止画面有了生机。",
+        "author" : "苏轼",
+        "editorialVersion" : 1,
+        "originalText" : "竹外桃花三两枝，春江水暖鸭先知。",
+        "quoteID" : "q-6fd476d7c48c-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%83%A0%E5%B4%87%E6%98%A5%E6%B1%9F%E6%99%9A%E6%99%AF&oldid=1439351"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "竹林外开着几枝桃花，春江水变暖，游水的鸭子最先感觉到。",
+        "work" : "惠崇春江晚景·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "水边草本植物。芦芽：芦苇嫩芽。",
+            "term" : "蒌蒿"
+          }
+        ],
+        "appreciation" : "春草与芦芽进一步交代季节，末句由眼前植物联想到水中的鱼。题画诗因此越出画面边界，把视觉、时令与生活经验连在一起；这是一幅春意渐浓的想象，不是饮食建议。",
+        "author" : "苏轼",
+        "editorialVersion" : 1,
+        "originalText" : "蒌蒿满地芦芽短，正是河豚欲上时。",
+        "quoteID" : "q-6fd476d7c48c-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%83%A0%E5%B4%87%E6%98%A5%E6%B1%9F%E6%99%9A%E6%99%AF&oldid=1439351"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "蒌蒿遍地，芦苇刚冒出短芽，正是河豚将要溯江而上的时节。",
+        "work" : "惠崇春江晚景·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "腊月酿的酒。豚：猪。",
+            "term" : "腊酒"
+          }
+        ],
+        "appreciation" : "开口像是农家亲切招呼，重心在待客的诚意，而非器物精美。“足”显出丰年生活的富足与主人热情，全诗的山村风光也由这种人情温度展开。",
+        "author" : "陆游",
+        "editorialVersion" : 1,
+        "originalText" : "莫笑农家腊酒浑，丰年留客足鸡豚。",
+        "quoteID" : "q-e95d53e0bc8b-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%81%8A%E5%B1%B1%E8%A5%BF%E6%9D%91&oldid=902696"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "别嫌农家腊月酿的酒浑浊，丰收之年，主人备足鸡肉猪肉款待客人。",
+        "work" : "游山西村"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "柳树浓密成荫。",
+            "term" : "柳暗"
+          }
+        ],
+        "appreciation" : "由疑路到见村，先遮蔽再展开，写出行游时真实的空间转折。“又”带来意外的喜悦；后世常借它表达困境中的新机，但原诗的可感之处仍在山村道路的曲折。",
+        "author" : "陆游",
+        "editorialVersion" : 1,
+        "originalText" : "山重水复疑无路，柳暗花明又一村。",
+        "quoteID" : "q-e95d53e0bc8b-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%81%8A%E5%B1%B1%E8%A5%BF%E6%9D%91&oldid=902696"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "山峦重叠、水道曲折，正疑心前面无路，却见浓柳与明花之间又出现一个村庄。",
+        "work" : "游山西村"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "春季祭祀土地神的传统节日。",
+            "term" : "春社"
+          }
+        ],
+        "appreciation" : "游村不只看风景，也看节日与人的生活。箫鼓的声音带来热闹，衣冠的简朴体现日常面貌；诗人对山村的喜爱，包含对乡土礼俗与质朴人情的欣赏。",
+        "author" : "陆游",
+        "editorialVersion" : 1,
+        "originalText" : "箫鼓追随春社近，衣冠简朴古风存。",
+        "quoteID" : "q-e95d53e0bc8b-03",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%81%8A%E5%B1%B1%E8%A5%BF%E6%9D%91&oldid=902696"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "春社将近，村民吹箫击鼓相随而行，衣着简朴，仍保存着淳厚的旧风俗。",
+        "work" : "游山西村"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "不保留力量，竭尽全力。",
+            "term" : "无遗力"
+          }
+        ],
+        "appreciation" : "诗以漫长时间衡量学习，强调积累与投入，而非迅速获得结果。“无遗力”与“老始成”相连，带有长者勉励晚辈的耐心；理解时也无需把“老”当成一切学习的硬性期限。",
+        "author" : "陆游",
+        "editorialVersion" : 1,
+        "originalText" : "古人学问无遗力，少壮工夫老始成。",
+        "quoteID" : "q-642592c10661-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%86%AC%E5%A4%9C%E8%AE%80%E6%9B%B8%E7%A4%BA%E5%AD%90%E8%81%BF&oldid=1655805"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "古人做学问不遗余力，年轻时积累的功夫，常到年老才见成就。",
+        "work" : "冬夜读书示子聿"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "透彻理解。躬行：亲自实践。",
+            "term" : "绝知"
+          }
+        ],
+        "appreciation" : "上句承认书本所得的限度，下句提出亲身验证的重要。它不是否定读书，而是在读书之外补上实践，让知识经由实际经验变得扎实；“躬行”也包含亲身践履的意味。",
+        "author" : "陆游",
+        "editorialVersion" : 1,
+        "originalText" : "纸上得来终觉浅，绝知此事要躬行。",
+        "quoteID" : "q-642592c10661-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%86%AC%E5%A4%9C%E8%AE%80%E6%9B%B8%E7%A4%BA%E5%AD%90%E8%81%BF&oldid=1655805"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "从书本上获得的认识终究还不够深入，要真正明白，还须亲自实践。",
+        "work" : "冬夜读书示子聿"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "明天早晨，朝读 zhāo。",
+            "term" : "明朝"
+          }
+        ],
+        "appreciation" : "一夜与明朝、雨声与花声，把室内的等待同城中的春日生活接通。景象清新，却不能脱离全诗的独居与感慨；“一夜听”也让这份春意含有未能安眠的时间重量。",
+        "author" : "陆游",
+        "editorialVersion" : 1,
+        "originalText" : "小楼一夜听春雨，深巷明朝卖杏花。",
+        "quoteID" : "q-f039c101ea14-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%87%A8%E5%AE%89%E6%98%A5%E9%9B%A8%E5%88%9D%E9%9C%BD&oldid=2261432"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "在小楼中听了一夜春雨，清早深巷里将传来卖杏花的声音。",
+        "work" : "临安春雨初霁"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "茶汤表面的细沫。分茶：以点茶手法使茶沫呈现变化的技艺。",
+            "term" : "细乳"
+          }
+        ],
+        "appreciation" : "写字与分茶都是闲中之事，“闲”“戏”使动作从容，却也透出消磨时光的意味。诗中有生活的雅趣，也有现实处境中的无聊，两种感受不必彼此取消。",
+        "author" : "陆游",
+        "editorialVersion" : 1,
+        "originalText" : "矮纸斜行闲作草，晴窗细乳戏分茶。",
+        "quoteID" : "q-f039c101ea14-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%87%A8%E5%AE%89%E6%98%A5%E9%9B%A8%E5%88%9D%E9%9C%BD&oldid=2261432"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "在短纸上随意写几行草书，晴窗下悠闲地试着点茶、玩赏细细的茶沫。",
+        "work" : "临安春雨初霁"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "泉水流出的孔口。",
+            "term" : "泉眼"
+          }
+        ],
+        "appreciation" : "“惜”“爱”赋予泉眼与树荫温柔的情态。诗人把极小的池边景物写得有情，细流与柔光相互映衬，呈现初夏小池的安静、轻巧与亲密。",
+        "author" : "杨万里",
+        "editorialVersion" : 1,
+        "originalText" : "泉眼无声惜细流，树阴照水爱晴柔。",
+        "quoteID" : "q-936dbbfa6c06-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B0%8F%E6%B1%A0&oldid=1649744"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "泉眼无声，仿佛珍惜细细水流；树荫映在水面，像喜爱这晴日的柔和。",
+        "work" : "小池"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "初生、尚未完全展开的荷叶。",
+            "term" : "小荷"
+          }
+        ],
+        "appreciation" : "“才”与“早”一前一后，使初生荷叶和蜻蜓的相遇显得及时又偶然。诗句抓住一个极小的瞬间表现生命的鲜活，读者仿佛也随诗人俯身看见了池边细节。",
+        "author" : "杨万里",
+        "editorialVersion" : 1,
+        "originalText" : "小荷才露尖尖角，早有蜻蜓立上头。",
+        "quoteID" : "q-936dbbfa6c06-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B0%8F%E6%B1%A0&oldid=1649744"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "小小荷叶才露出尖角，蜻蜓已经停在上面。",
+        "work" : "小池"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "四季，此处泛指其他时节。",
+            "term" : "四时"
+          }
+        ],
+        "appreciation" : "开篇先作赞叹，暂不列出景物，使下文的莲叶荷花成为回答。“毕竟”带有亲眼见过后的笃定，六月这一具体时令也使赞美有了明确对象，而非泛泛夸耀西湖。",
+        "author" : "杨万里",
+        "editorialVersion" : 1,
+        "originalText" : "毕竟西湖六月中，风光不与四时同。",
+        "quoteID" : "q-966d2600bcf5-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9B%89%E5%87%BA%E6%B7%A8%E6%85%88%E5%AF%BA%E9%80%81%E6%9E%97%E5%AD%90%E6%96%B9&oldid=2391475"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "到底是六月里的西湖，风光与其他时节不同。",
+        "work" : "晓出净慈寺送林子方·其二"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "“无穷”写莲叶的广度，“别样”写荷花的突出。大片绿与点点红在日光下相互增益，让西湖盛夏有了与春景不同的丰盛与明朗，既是色彩，也是空间的展开。",
+        "author" : "杨万里",
+        "editorialVersion" : 1,
+        "originalText" : "接天莲叶无穷碧，映日荷花别样红。",
+        "quoteID" : "q-966d2600bcf5-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9B%89%E5%87%BA%E6%B7%A8%E6%85%88%E5%AF%BA%E9%80%81%E6%9E%97%E5%AD%90%E6%96%B9&oldid=2391475"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "莲叶铺展到天边，一片无尽碧绿；荷花映着日光，红得格外鲜明。",
+        "work" : "晓出净慈寺送林子方·其二"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "晴好日子。泗水：水名，与孔子讲学之地的文化记忆相关。",
+            "term" : "胜日"
+          }
+        ],
+        "appreciation" : "“寻芳”带着主动探访的兴致，“一时新”写春到时的整体感受。泗水也可引起对孔门传统的联想；可从春景与读书求道两层体会，但不宜把诗句当作确凿的出游日记。",
+        "author" : "朱熹",
+        "editorialVersion" : 1,
+        "originalText" : "胜日寻芳泗水滨，无边光景一时新。",
+        "quoteID" : "q-13cf8e76c277-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E6%97%A5+%28%E6%9C%B1%E7%86%B9%29&oldid=1794527"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "天气晴好的日子来到泗水边寻春，广阔景物仿佛一下子焕然一新。",
+        "work" : "春日"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "轻易，寻常。",
+            "term" : "等闲"
+          }
+        ],
+        "appreciation" : "看不见的春风通过可见的花色被认出，抽象感受因而有了具体形象。无论从写景还是从求知的寄意阅读，重点都在由丰富呈现体认共同的生机，不能把“等闲”误作轻视。",
+        "author" : "朱熹",
+        "editorialVersion" : 1,
+        "originalText" : "等闲识得东风面，万紫千红总是春。",
+        "quoteID" : "q-13cf8e76c277-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%98%A5%E6%97%A5+%28%E6%9C%B1%E7%86%B9%29&oldid=1794527"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "轻易便能认出春风的面貌，因为万紫千红处处都是春意。",
+        "work" : "春日"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "镜子。",
+            "term" : "鉴"
+          }
+        ],
+        "appreciation" : "小塘容纳了天空与云的变化，有限空间因倒影而变得开阔。“鉴”写水的清明，“徘徊”写影的流动，静水并非死寂，也为下文活水的解释作出准备。",
+        "author" : "朱熹",
+        "editorialVersion" : 1,
+        "originalText" : "半亩方塘一鉴开，天光云影共徘徊。",
+        "quoteID" : "q-012b87f1a35d-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%A7%80%E6%9B%B8%E6%9C%89%E6%84%9F&oldid=1995632"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "半亩方塘像一面展开的镜子，天光与云影一同映在其中移动。",
+        "work" : "观书有感·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "它，指方塘。那得：怎么能够。如许：这样。",
+            "term" : "渠"
+          }
+        ],
+        "appreciation" : "以问答点出清澈的原因，诗意从水塘景象转入对持续更新的体会。联系题目，可理解为读书求知需要不断汲取；比喻成立于活水流动，不只是背诵一句励志结论。",
+        "author" : "朱熹",
+        "editorialVersion" : 1,
+        "originalText" : "问渠那得清如许，为有源头活水来。",
+        "quoteID" : "q-012b87f1a35d-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%A7%80%E6%9B%B8%E6%9C%89%E6%84%9F&oldid=1995632"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "问它为何这样清澈，因为源头不断有新鲜活水流来。",
+        "work" : "观书有感·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "今江苏镇江。瓜洲：长江北岸古渡。钟山：今南京紫金山。",
+            "term" : "京口"
+          }
+        ],
+        "appreciation" : "“一水”“只隔”反复缩短心理距离，写出泊舟时对钟山方向的牵念。空间虽有阻隔，语气却像已近在眼前，这种远近交错为全诗思归的情绪蓄势。",
+        "author" : "王安石",
+        "editorialVersion" : 1,
+        "originalText" : "京口瓜洲一水间，钟山只隔数重山。",
+        "quoteID" : "q-31d101c5a0a0-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B3%8A%E8%88%B9%E7%93%9C%E6%B4%B2&oldid=2546238"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "京口与瓜洲隔着一条江，钟山也不过隔着几重山。",
+        "work" : "泊船瓜洲"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "冒着严寒。",
+            "term" : "凌寒"
+          }
+        ],
+        "appreciation" : "地点偏僻、花枝不多，诗却把注意力放在寒中开放的姿态上。“凌寒”使清冷环境与梅的生命力相对照，品格意味由景物自然生出，不必另加热闹的赞辞。",
+        "author" : "王安石",
+        "editorialVersion" : 1,
+        "originalText" : "墙角数枝梅，凌寒独自开。",
+        "quoteID" : "q-2f5167edf9de-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%A2%85%E8%8A%B1+%28%E7%8E%8B%E5%AE%89%E7%9F%B3%29&oldid=1744202"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "墙角几枝梅花，冒着寒意独自开放。",
+        "work" : "梅花"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "隐约、幽微的香气。",
+            "term" : "暗香"
+          }
+        ],
+        "appreciation" : "前句先写辨认结果，后句才给出嗅觉依据。梅与雪在颜色上相似，香气却成为梅独有的存在感；“暗”写香的细微，也让诗的气质保持含蓄。",
+        "author" : "王安石",
+        "editorialVersion" : 1,
+        "originalText" : "遥知不是雪，为有暗香来。",
+        "quoteID" : "q-2f5167edf9de-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%A2%85%E8%8A%B1+%28%E7%8E%8B%E5%AE%89%E7%9F%B3%29&oldid=1744202"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "远远便知道那不是雪，因为隐约的香气正飘来。",
+        "work" : "梅花"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "经常。畦：分成小块的种植地。",
+            "term" : "长"
+          }
+        ],
+        "appreciation" : "先写庭院整洁，再写花木有序，从日常劳作中带出主人的性情。诗没有直接称赞品格，而让扫地、栽种这些具体事情说话，居所因此带着朴素而可亲的秩序。",
+        "author" : "王安石",
+        "editorialVersion" : 1,
+        "originalText" : "茅檐长扫净无苔，花木成畦手自栽。",
+        "quoteID" : "q-c0855835b122-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9B%B8%E6%B9%96%E9%99%B0%E5%85%88%E7%94%9F%E5%A3%81&oldid=2709760"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "茅屋檐下常常打扫，洁净得没有青苔；花木分畦排列，都是主人亲手种植。",
+        "work" : "书湖阴先生壁·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "推开门。闼：门。",
+            "term" : "排闼"
+          }
+        ],
+        "appreciation" : "水与山都被赋予亲近人的动作，“护”“送”让自然像来访的友人。“排闼”尤为生动，使远山与屋门之间的距离骤然缩短，庭院也因此与更大的山水相连。",
+        "author" : "王安石",
+        "editorialVersion" : 1,
+        "originalText" : "一水护田将绿绕，两山排闼送青来。",
+        "quoteID" : "q-c0855835b122-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%9B%B8%E6%B9%96%E9%99%B0%E5%85%88%E7%94%9F%E5%A3%81&oldid=2709760"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "一道溪水像护着田地，环绕着绿意；两座山仿佛推门而入，把青色送到眼前。",
+        "work" : "书湖阴先生壁·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "建造居所。人境：人居住的地方。",
+            "term" : "结庐"
+          }
+        ],
+        "appreciation" : "诗一开始就把居住地点与内心感受分开。身在人间而能得静，不全靠远避人群；联系下文“心远”，宁静也来自对名利往来的疏离，而非简单追求绝对无声。",
+        "author" : "陶渊明",
+        "editorialVersion" : 1,
+        "originalText" : "结庐在人境，而无车马喧。",
+        "quoteID" : "q-c4963517b419-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%A3%B2%E9%85%92%E4%BA%8C%E5%8D%81%E9%A6%96&oldid=2692638"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "把屋子建在人居之地，却听不到车马的喧闹。",
+        "work" : "饮酒·其五"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "闲适自得的样子。",
+            "term" : "悠然"
+          }
+        ],
+        "appreciation" : "“采菊”是近处的动作，“见南山”是随之自然发生的观看。“悠然”贯穿其中，人物没有刻意寻找壮景，山却在平常生活里出现，使人与景的关系格外从容。",
+        "author" : "陶渊明",
+        "editorialVersion" : 1,
+        "originalText" : "采菊东篱下，悠然见南山。",
+        "quoteID" : "q-c4963517b419-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%A3%B2%E9%85%92%E4%BA%8C%E5%8D%81%E9%A6%96&oldid=2692638"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "在东边篱笆下采菊，悠闲自在地望见南山。",
+        "work" : "饮酒·其五"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "傍晚。相与：共同，一起。",
+            "term" : "日夕"
+          }
+        ],
+        "appreciation" : "山气与归鸟共同写出一天将晚时的安稳。鸟的归返呼应人对归居生活的认同，诗意不靠激烈抒情，而在自然节律与心境的契合中慢慢展开。",
+        "author" : "陶渊明",
+        "editorialVersion" : 1,
+        "originalText" : "山气日夕佳，飞鸟相与还。",
+        "quoteID" : "q-c4963517b419-03",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%A3%B2%E9%85%92%E4%BA%8C%E5%8D%81%E9%A6%96&oldid=2692638"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "傍晚山间气象美好，飞鸟结伴返回栖息之处。",
+        "work" : "饮酒·其五"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "关鸟兽的笼子，此处比喻束缚人的生活处境。",
+            "term" : "樊笼"
+          }
+        ],
+        "appreciation" : "“樊笼”把束缚写得可感，“复得”则含有重获自由的欣喜。联系全诗，归返不仅是回到田园，也关乎恢复本性与生活节奏；这里的自然兼有山野与本真之意。",
+        "author" : "陶渊明",
+        "editorialVersion" : 1,
+        "originalText" : "久在樊笼里，复得返自然。",
+        "quoteID" : "q-cb9634cc5602-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%AD%B8%E5%9C%92%E7%94%B0%E5%B1%85&oldid=3702704"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "长久困在笼中般的生活里，如今终于重新回到自然。",
+        "work" : "归园田居·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "渡过。云帆：高扬的船帆。",
+            "term" : "济"
+          }
+        ],
+        "appreciation" : "全诗经历迟疑与困顿，结尾才转向坚定想象。因此它的昂扬并非未经挫折的乐观，而是波折中的自我振作；风、浪与帆使抽象志向成为向远方行进的图景。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "长风破浪会有时，直挂云帆济沧海。",
+        "quoteID" : "q-419779624f62-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E8%A1%8C%E8%B7%AF%E9%9B%A3+%28%E9%87%91%E6%A8%BD%E6%B8%85%E9%85%92%E6%96%97%E5%8D%81%E5%8D%83%29&oldid=2602560"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "乘长风破巨浪的时机总会到来，到那时便高挂船帆，渡过广阔大海。",
+        "work" : "行路难·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "精美的酒杯。得意：心意畅快。",
+            "term" : "金樽"
+          }
+        ],
+        "appreciation" : "放在《将进酒》中，这份纵情与时光易逝、才志难酬交织在一起。语气豪放，却有不甘与感伤作底；理解诗人的情绪，不等于把它当作无节制饮酒的生活准则。",
+        "author" : "李白",
+        "editorialVersion" : 1,
+        "originalText" : "人生得意须尽欢，莫使金樽空对月。",
+        "quoteID" : "q-d7526561f1a5-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B0%87%E9%80%B2%E9%85%92+%28%E6%9D%8E%E7%99%BD%29&oldid=12696100"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "人生遇到畅意时便应尽情欢聚，不要让酒杯空对明月。",
+        "work" : "将进酒"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "青色的山间云气。",
+            "term" : "青霭"
+          }
+        ],
+        "appreciation" : "回望与走入两种视点交替，山中云气的聚散因此可感。远看有、近看无的变化不是矛盾，而是雾霭在不同距离中的真实观感，使山行具有流动的层次。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "白云回望合，青霭入看无。",
+        "quoteID" : "q-74c39fce9562-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%B5%82%E5%8D%97%E5%B1%B1+%28%E7%8E%8B%E7%B6%AD%29&oldid=2018203"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "回头望去，白云聚合在身后；走近青色山岚，却又看不见它的形迹。",
+        "work" : "终南山"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "投宿。樵夫：砍柴的人。",
+            "term" : "投"
+          }
+        ],
+        "appreciation" : "宏阔山景最后收在问路借宿的小事上，人物与生活重新进入画面。隔水相问既显山间距离，也保留声音往来的亲切，让游山不只是观看，更是身处其间的行走经验。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "欲投人处宿，隔水问樵夫。",
+        "quoteID" : "q-74c39fce9562-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%B5%82%E5%8D%97%E5%B1%B1+%28%E7%8E%8B%E7%B6%AD%29&oldid=2018203"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "想找有人家的地方借宿，便隔着溪水询问砍柴人。",
+        "work" : "终南山"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "江的延伸与山的隐约相互配合，使空间超出眼前清楚可辨的范围。“外”“有无中”都不是精确定位，而是远望时的感受，写出江天辽阔、烟水迷蒙的气象。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "江流天地外，山色有无中。",
+        "quoteID" : "q-d600c53ad2b0-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%BC%A2%E6%B1%9F%E8%87%A8%E6%B1%8E&oldid=1985614"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "江水仿佛流到天地之外，远山的颜色若有若无。",
+        "work" : "汉江临泛"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "柴木做的门。",
+            "term" : "柴扉"
+          }
+        ],
+        "appreciation" : "诗不写送行时的言语，只写人走以后关门的动作。由外面的送别回到日暮的独处，情绪藏在生活程序里；一个“掩”字，让离别后的安静显得更深。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "山中相送罢，日暮掩柴扉。",
+        "quoteID" : "q-330ec4cd5923-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%88%A5+%28%E5%B1%B1%E4%B8%AD%E7%9B%B8%E9%80%81%E7%BD%B7%29&oldid=1982067"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "在山中送别友人之后，黄昏时独自关上柴门。",
+        "work" : "送别"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "此处指远行的朋友。",
+            "term" : "王孙"
+          }
+        ],
+        "appreciation" : "草木的按时复苏与朋友归期的不确定形成对照。疑问没有答案，思念便向未来延伸；“王孙”在这里借指远行友人，不必按贵族身份解释。",
+        "author" : "王维",
+        "editorialVersion" : 1,
+        "originalText" : "春草明年绿，王孙归不归？",
+        "quoteID" : "q-330ec4cd5923-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%80%81%E5%88%A5+%28%E5%B1%B1%E4%B8%AD%E7%9B%B8%E9%80%81%E7%BD%B7%29&oldid=1982067"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "明年春草还会变绿，远行的朋友，你会回来吗？",
+        "work" : "送别"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "小路。",
+            "term" : "蹊"
+          }
+        ],
+        "appreciation" : "花多先从铺满小路写起，再落实到低垂的枝条。“千朵万朵”使繁盛可感，“压”又给视觉添上重量，体现寻花者近看细察的喜悦。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "黄四娘家花满蹊，千朵万朵压枝低。",
+        "quoteID" : "q-f6a7516179bf-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E7%95%94%E7%8D%A8%E6%AD%A5%E5%B0%8B%E8%8A%B1%E4%B8%83%E7%B5%B6%E5%8F%A5&oldid=2608717"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "黄四娘家附近的小路开满鲜花，繁花累累，把枝条都压低了。",
+        "work" : "江畔独步寻花·其六"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "留恋不去。恰恰：形容鸟啼声和谐悦耳。",
+            "term" : "留连"
+          }
+        ],
+        "appreciation" : "蝴蝶的舞与黄莺的啼使繁花景象充满动静变化。“留连”“自在”既描写鸟蝶，也映照赏花人的心情；声律上的反复则让诗句读起来轻快而有节奏。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "留连戏蝶时时舞，自在娇莺恰恰啼。",
+        "quoteID" : "q-f6a7516179bf-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E7%95%94%E7%8D%A8%E6%AD%A5%E5%B0%8B%E8%8A%B1%E4%B8%83%E7%B5%B6%E5%8F%A5&oldid=2608717"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "流连花间的蝴蝶不时飞舞，自由自在的黄莺发出悦耳啼声。",
+        "work" : "江畔独步寻花·其六"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "指李龟年。",
+            "term" : "君"
+          }
+        ],
+        "appreciation" : "好风景与落花并置，相逢的喜悦中含着流光易逝的感触。联系全诗对昔日见闻的回忆，这次重逢也承载人与时代的变化；诗没有直说沧桑，却让时令替情感留白。",
+        "author" : "杜甫",
+        "editorialVersion" : 1,
+        "originalText" : "正是江南好风景，落花时节又逢君。",
+        "quoteID" : "q-cfa0d5980cdb-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%B1%9F%E5%8D%97%E9%80%A2%E6%9D%8E%E9%BE%9C%E5%B9%B4&oldid=1534428"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "正值江南风景优美的时候，在落花时节又与你相逢。",
+        "work" : "江南逢李龟年"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "“前”“后”把时间拉向两端，个人却立在两者之间。古人与来者的缺席共同放大不被理解的孤独，不能简单理解为周围没有人，而是对理想知遇的深切渴望。",
+        "author" : "陈子昂",
+        "editorialVersion" : 1,
+        "originalText" : "前不见古人，后不见来者。",
+        "quoteID" : "q-02d9ed81448f-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%99%BB%E5%B9%BD%E5%B7%9E%E8%87%BA%E6%AD%8C&oldid=1981897"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "向前追想，不见古代那些人物；向后展望，也见不到未来的知音。",
+        "work" : "登幽州台歌"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "辽阔而长久。怆然：悲伤的样子。涕：眼泪。",
+            "term" : "悠悠"
+          }
+        ],
+        "appreciation" : "时间与空间的无尽反衬个人生命的有限，“独”把宏阔感受重新落回一个人。情绪从追想古今涌向眼前，因而悲而不琐碎，具有面对天地时的深沉震动。",
+        "author" : "陈子昂",
+        "editorialVersion" : 1,
+        "originalText" : "念天地之悠悠，独怆然而涕下。",
+        "quoteID" : "q-02d9ed81448f-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%99%BB%E5%B9%BD%E5%B7%9E%E8%87%BA%E6%AD%8C&oldid=1981897"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "想到天地如此辽阔长久，独自悲伤，眼泪不禁落下。",
+        "work" : "登幽州台歌"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "未加华饰的简陋房屋。",
+            "term" : "白屋"
+          }
+        ],
+        "appreciation" : "诗以远山与近屋安排投宿前的视野，暮、寒、贫层层相加，写出旅途中对栖身之所的感受。语言简省，却能让人同时体会距离、温度与屋舍的朴素。",
+        "author" : "刘长卿",
+        "editorialVersion" : 1,
+        "originalText" : "日暮苍山远，天寒白屋贫。",
+        "quoteID" : "q-3362f2edf915-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%80%A2%E9%9B%AA%E5%AE%BF%E8%8A%99%E8%93%89%E5%B1%B1%E4%B8%BB%E4%BA%BA&oldid=1990520"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "暮色里青山显得遥远，天气寒冷，简陋的茅屋更显清贫。",
+        "work" : "逢雪宿芙蓉山主人"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "视觉转入听觉，安静的屋舍因犬吠而出现动静。归人的具体所指历来有不同解释，诗句本身留下了空间；无论怎样理解，风雪与柴门都使归返带有寒夜中的生活温度。",
+        "author" : "刘长卿",
+        "editorialVersion" : 1,
+        "originalText" : "柴门闻犬吠，风雪夜归人。",
+        "quoteID" : "q-3362f2edf915-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E9%80%A2%E9%9B%AA%E5%AE%BF%E8%8A%99%E8%93%89%E5%B1%B1%E4%B8%BB%E4%BA%BA&oldid=1990520"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "柴门外传来狗叫声，风雪之夜有人归来。",
+        "work" : "逢雪宿芙蓉山主人"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "年少的侍者或弟子。",
+            "term" : "童子"
+          }
+        ],
+        "appreciation" : "一问一答被压缩在短短两句中，寻访过程因此简洁而生动。只留下最必要的信息，人物的身份、居所与日常便隐约出现，也为后文询问去处层层推进。",
+        "author" : "贾岛",
+        "editorialVersion" : 1,
+        "originalText" : "松下问童子，言师采药去。",
+        "quoteID" : "q-73a405c9ede0-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B0%8B%E9%9A%B1%E8%80%85%E4%B8%8D%E9%81%87&oldid=1310721"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "在松树下询问童子，他说老师采药去了。",
+        "work" : "寻隐者不遇"
+      },
+      {
+        "annotations" : [
+
+        ],
+        "appreciation" : "回答先让寻找似乎有了希望，又被云深遮断。人未出现，居处的幽深与行踪的自由却已可想；留白既写寻访不遇，也让隐者形象更具山林气息。",
+        "author" : "贾岛",
+        "editorialVersion" : 1,
+        "originalText" : "只在此山中，云深不知处。",
+        "quoteID" : "q-73a405c9ede0-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%B0%8B%E9%9A%B1%E8%80%85%E4%B8%8D%E9%81%87&oldid=1310721"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "就在这座山里，可云雾深重，不知道他具体在哪里。",
+        "work" : "寻隐者不遇"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "特别喜爱。",
+            "term" : "独怜"
+          }
+        ],
+        "appreciation" : "低处的草与高处的鸟声形成层次。“独怜”直接表明偏爱，使寻常幽草获得关注；清幽意趣首先来自细致的观看与聆听，不必把每一种景物都固定为政治符号。",
+        "author" : "韦应物",
+        "editorialVersion" : 1,
+        "originalText" : "独怜幽草涧边生，上有黄鹂深树鸣。",
+        "quoteID" : "q-ec040dc815cc-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%BB%81%E5%B7%9E%E8%A5%BF%E6%BE%97&oldid=1981825"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "偏爱那生在涧边的幽草，上方浓密树丛里有黄鹂鸣叫。",
+        "work" : "滁州西涧"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "郊野渡口。",
+            "term" : "野渡"
+          }
+        ],
+        "appreciation" : "前句雨潮急动，后句渡舟静横，动与静相衬。“无人”“自”保留了自然运行而人事暂歇的空寂感，既可感到闲适，也可体会淡淡寥落，无需强求单一情绪。",
+        "author" : "韦应物",
+        "editorialVersion" : 1,
+        "originalText" : "春潮带雨晚来急，野渡无人舟自横。",
+        "quoteID" : "q-ec040dc815cc-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E6%BB%81%E5%B7%9E%E8%A5%BF%E6%BE%97&oldid=1981825"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "春潮夹着雨，到傍晚更显湍急；荒野渡口没有人，一只船自在横泊。",
+        "work" : "滁州西涧"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "与“情”谐音，构成双关。",
+            "term" : "晴"
+          }
+        ],
+        "appreciation" : "天气的不确定映照对歌声中情意的猜测。“晴”与“情”谐音，让表面写天的句子同时传达欲言又止的心事；巧妙之处在双关，而不是给情感作出明确结论。",
+        "author" : "刘禹锡",
+        "editorialVersion" : 1,
+        "originalText" : "东边日出西边雨，道是无晴却有晴。",
+        "quoteID" : "q-3cc284080946-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%AB%B9%E6%9E%9D%E8%A9%9E%E4%BA%8C%E9%A6%96&oldid=1754131"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "东边出太阳，西边却下着雨，说没有晴天，却又有晴光。",
+        "work" : "竹枝词·其一"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "裂开的岩石。",
+            "term" : "破岩"
+          }
+        ],
+        "appreciation" : "“咬定”赋予竹根主动而坚决的力量，破岩则写出生长环境的艰难。诗意从扎根的具体形象展开，品格的坚韧因此有了依凭，不是脱离对象的空泛赞语。",
+        "author" : "郑燮",
+        "editorialVersion" : 1,
+        "originalText" : "咬定青山不放松，立根原在破岩中。",
+        "quoteID" : "q-f47dcf9012ba-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%AB%B9%E7%9F%B3&oldid=374465"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "竹子紧紧抓住青山，根原来扎在岩石裂缝之中。",
+        "work" : "竹石"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "坚韧有力。尔：你，此处指风。",
+            "term" : "坚劲"
+          }
+        ],
+        "appreciation" : "夸张的数量与遍举四方的风，将考验推到极处；“还”字则牢牢维系竹的姿态。联系扎根岩石的上句，坚韧不是无所依靠，而来自深扎的根与持续承受的力量。",
+        "author" : "郑燮",
+        "editorialVersion" : 1,
+        "originalText" : "千磨万击还坚劲，任尔东西南北风。",
+        "quoteID" : "q-f47dcf9012ba-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E7%AB%B9%E7%9F%B3&oldid=374465"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "经受种种磨折，依然坚韧有力，任凭四面八方的风吹来。",
+        "work" : "竹石"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "飞雁。雪泥：带雪的泥地。",
+            "term" : "飞鸿"
+          }
+        ],
+        "appreciation" : "诗以自问引出比喻，将人生行迹写成短暂而可辨的痕迹。雪泥承接过飞鸿，也可能很快失去印记；怀旧因此既珍惜相遇，又意识到经历不能永久留存。",
+        "author" : "苏轼",
+        "editorialVersion" : 1,
+        "originalText" : "人生到处知何似？应似飞鸿踏雪泥。",
+        "quoteID" : "q-b0c722ec9762-01",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%92%8C%E5%AD%90%E7%94%B1%E6%BE%A0%E6%B1%A0%E6%87%B7%E8%88%8A&oldid=471592"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "人生走过的地方像什么呢？应当像飞鸿在雪泥上留下的足迹。",
+        "work" : "和子由渑池怀旧"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "哪里还。计：计较，顾念。",
+            "term" : "那复"
+          }
+        ],
+        "appreciation" : "上句承接足迹，下句把视线移向继续飞行的鸿雁。记忆有痕而行程不停，诗中既有对无常的体认，也有向前行去的旷达，不宜只读成对往事的彻底否定。",
+        "author" : "苏轼",
+        "editorialVersion" : 1,
+        "originalText" : "泥上偶然留指爪，鸿飞那复计东西。",
+        "quoteID" : "q-b0c722ec9762-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%92%8C%E5%AD%90%E7%94%B1%E6%BE%A0%E6%B1%A0%E6%87%B7%E8%88%8A&oldid=471592"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "泥地上偶然留下爪印，鸿雁飞走以后，又哪里还会计较向东还是向西。",
+        "work" : "和子由渑池怀旧"
+      },
+      {
+        "annotations" : [
+          {
+            "explanation" : "刚才。萧瑟：此处指风雨声。",
+            "term" : "向来"
+          }
+        ],
+        "appreciation" : "由途中遇雨到雨后回望，外在天气变化引出内心态度的变化。“无风雨也无晴”并非否认真实天气，而是写对顺逆不再过分分别的从容；这种体会来自经历后的回看。",
+        "author" : "苏轼",
+        "editorialVersion" : 1,
+        "originalText" : "回首向来萧瑟处，归去，也无风雨也无晴。",
+        "quoteID" : "q-49a5aeba393e-02",
+        "referenceURLs" : [
+          "https://zh.wikisource.org/w/index.php?title=%E5%AE%9A%E9%A2%A8%E6%B3%A2+%28%E8%8E%AB%E8%81%BD%E7%A9%BF%E6%9E%97%E6%89%93%E8%91%89%E8%81%B2%29&oldid=8732900"
+        ],
+        "reviewStatus" : "developmentReviewed",
+        "translation" : "回头看刚才风雨萧瑟的地方，归去时，心里已不再执着于风雨或晴天。",
+        "work" : "定风波·莫听穿林打叶声"
+      }
+    ],
+    "humanPublicationReview" : "pending"
+  },
+  "schemaVersion" : 1
+}
